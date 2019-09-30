@@ -35,7 +35,7 @@ This application should be suitable for:
 
 This market is full of all sorts of applications and websites that are meant to help candidates find a job or recruiters find someone to fill their open positions. Despite of this, the process is still pretty difficult and taskes a lot of time. One of the most popular applications used nowadays are mentioned below:  
 
-![](/images/linkedin.png=100x20) ***Linkedin***  
+![](./images/linkedin.png =100x20) ***Linkedin***  
 The world's largest professional network with more than 645+ million users in more than 200 countries and territories worldwide.
 
 # Advantages
