@@ -1,4 +1,4 @@
 ## More coming soon ...
 
-### Project milestones
+## Project milestones
 [Milestone 1](milestone1.md)
