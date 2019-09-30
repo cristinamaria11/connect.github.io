@@ -35,7 +35,7 @@ This application should be suitable for:
 
 This market is full of all sorts of applications and websites that are meant to help candidates find a job or recruiters find someone to fill their open positions. Despite of this, the process is still pretty difficult and taskes a lot of time. One of the most popular applications used nowadays are mentioned below:  
 
-![Linkedin](/images/linkedin.png) ***Linkedin***  
+<img src="/connect.github.io/images/linkedin.png" alt="Linkedin" width="50" height="50"> ***Linkedin***  
 The world's largest professional network with more than 645+ million users in more than 200 countries and territories worldwide. LinkedIn leads a diversified business with revenues from membership subscriptions, advertising sales and recruitment solutions. In December 2016, Microsoft completed its acquisition of LinkedIn, bringing together the world’s leading professional cloud and the world’s leading professional network.
 
 # Advantages
