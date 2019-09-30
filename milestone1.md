@@ -25,7 +25,8 @@ Our project comes with a solution for the problem mentioned above.
 
 # Customer segment
 
-***Connect*** is meant to target a pretty large market, being meant to fulfill the needs for almost everyone who has some knowledge regarding a specific subject.   
+***Connect*** is meant to target a pretty large market, being meant to fulfill the needs for almost everyone who has some knowledge regarding a specific subject.  
+
 This application should be suitable for:
 * **employers** all around the world looking for people to fill their open positions in the company
 * **candidates** who want to start building their career or want to make a change in their existing one
