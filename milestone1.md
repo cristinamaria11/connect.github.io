@@ -44,6 +44,10 @@ Glassdoor is one of the world’s largest job and recruiting sites. Built on the
 
 # Advantages
 
+:heavy_plus_sign: easy to use
+:heavy_plus_sign: saves time for all users
+:heavy_plus_sign: ?
+
 # Key Metrics
 
 # Cost Structure
