@@ -36,7 +36,11 @@ This application should be suitable for:
 This market is full of all sorts of applications and websites that are meant to help candidates find a job or recruiters find someone to fill their open positions. Despite of this, the process is still pretty difficult and taskes a lot of time. One of the most popular applications used nowadays are mentioned below:  
 
 <img src="/connect.github.io/images/linkedin.png" alt="Linkedin" width="20" height="20"> ***Linkedin***  
-The world's largest professional network with more than 645+ million users in more than 200 countries and territories worldwide. LinkedIn leads a diversified business with revenues from membership subscriptions, advertising sales and recruitment solutions. In December 2016, Microsoft completed its acquisition of LinkedIn, bringing together the world’s leading professional cloud and the world’s leading professional network.
+The world's largest professional network with more than 645+ million users in more than 200 countries and territories worldwide. LinkedIn leads a diversified business with revenues from membership subscriptions, advertising sales and recruitment solutions. Altough this network seems to be pretty professional, a lot of people started using it because of its popularity and even if you can still find relevant information there, it is also a lot of irrelevant information that just complicates it all.  
+
+<img src="/connect.github.io/images/glassdoor.png" alt="Glassdoor" width="20" height="20"> ***Glassdoor***  
+Glassdoor is one of the world’s largest job and recruiting sites. Built on the foundation of increasing workplace transparency, Glassdoor offers millions of the latest job listings, combined with a growing database of company reviews, CEO approval ratings, salary reports, interview reviews and questions, benefits reviews, office photos and more. Unlike other job sites, all of this information is shared by those who know a company best — the employees. This website is a more professional one compared to Linkedin, but it is also a lot more complex and more hard to use. 
+
 
 # Advantages
 
