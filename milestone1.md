@@ -21,11 +21,11 @@ The problem nowadays with jobs is coming both from the employer and the employee
 # The solution
 
 Our project comes with a solution for the problem mentioned above.  
-`Connect` is a web application which is based on the match between employers and employees. Both of them can see the other's profile and swipe right if they like what they see. Only if there is a match, the employment process can continue and if not, contact can not be made. Following these rules, the amount of candidates is smaller and, in the same time, the candidates are not approached by so many recruiters.
+***Connect*** is a web application which is based on the match between employers and employees. Both of them can see the other's profile and swipe right if they like what they see. Only if there is a match, the employment process can continue and if not, contact can not be made. Following these rules, the amount of candidates is smaller and, in the same time, the candidates are not approached by so many recruiters.
 
 # Customer segment
 
-`Connect` is meant to target a pretty large market, being meant to fulfill the needs for almost everyone who has some knowledge regarding a specific subject.   
+***Connect*** is meant to target a pretty large market, being meant to fulfill the needs for almost everyone who has some knowledge regarding a specific subject.   
 This application should be suitable for:
 * **employers** all around the world looking for people to fill their open positions in the company
 * **candidates** who want to start building their career or want to make a change in their existing one
