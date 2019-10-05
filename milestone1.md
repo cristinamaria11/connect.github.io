@@ -50,6 +50,12 @@ Glassdoor is one of the world’s largest job and recruiting sites. Built on the
 
 # Key Metrics
 
+**Number of new customers/Growth:** In order for customer to switch to our service, we need to provide at least one thing better than any products on the same market. We want to help people find a job faster than any other service. First of all, we have to tell people about our platform and make them register and create a job profile. We expect at least 30 candidate accounts and 5 companies registered in the first 3 months.
+
+**Daily Active Users:** it's a glimpse into how many users are using your product or application on a daily basis
+ 
+**Retention Rate:**  We believe that customer experience  Also known as churn rate, retention rate evaluates the percentage of customers that stay with you and the percentage that leave over a given time period
+
 # Cost Structure
 
 # Revenue Streams
