@@ -1,17 +1,17 @@
 # The team 
 
 Our team members are mentioned below where is also specified a contact address for each of them and also their role in this project. 
-* **Monica Stanciu** - Role  
+* **Monica Stanciu** - Product Owner  
 :envelope: monicastanciu16@gmail.com
-* **Andrei Sterian** - Role  
+* **Andrei Sterian** - Full Stack Developer  
 :envelope: sterianandrei@gmail.com
-* **Dan Dragomir** - Role  
+* **Dan Dragomir** - Full Stack Developer  
 :envelope: dragomir_dan_gabriel@yahoo.com
-* **Andrei Bratu** - Role  
+* **Andrei Bratu** - Project Manager  
 :envelope: andrei.bratu97@gmail.com
-* **Cristina Calinescu** - Role  
+* **Cristina Calinescu** - Full Stack Developer  
 :envelope: cristina.maria0211@gmail.com
-* **Denisa Dumitru** - Role  
+* **Denisa Dumitru** - Full Stack Developer  
 :envelope: mdenisadumitru@gmail.com
 
 # The problem
