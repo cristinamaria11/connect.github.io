@@ -46,7 +46,8 @@ Glassdoor is one of the world’s largest job and recruiting sites. Built on the
 
 :heavy_plus_sign: easy to use  
 :heavy_plus_sign: saves time for all users  
-:heavy_plus_sign: ?
+:heavy_plus_sign: ease of communication between employer and candidates
+:heavy_plus_sign: view job offers faster
 
 # Key Metrics
 
@@ -58,4 +59,12 @@ Glassdoor is one of the world’s largest job and recruiting sites. Built on the
 
 # Cost Structure
 
+:heavy_plus_sign: Advertising and promotion
+:heavy_plus_sign: Equipment, license and supplies
+:heavy_plus_sign: Rent space
+:heavy_plus_sign: Salaries
+
 # Revenue Streams
+
+The revenues will come from partnerships with other companies on the human resources side. We also introduce certain premium services that give the user the opportunity to appear his resume among the first ones when the recruiter also looks for employees.
+
