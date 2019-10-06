@@ -1,17 +1,17 @@
 # The team 
 
 Our team members are mentioned below where is also specified a contact address for each of them and also their role in this project. 
-* **Monica Stanciu** - Product Owner  
+* **Monica Stanciu** - Role  
 :envelope: monicastanciu16@gmail.com
-* **Andrei Sterian** - Full Stack Developer  
+* **Andrei Sterian** - Role  
 :envelope: sterianandrei@gmail.com
-* **Dan Dragomir** - Full Stack Developer   
+* **Dan Dragomir** - Role  
 :envelope: dragomir_dan_gabriel@yahoo.com
-* **Andrei Bratu** - Project Manager  
+* **Andrei Bratu** - Role  
 :envelope: andrei.bratu97@gmail.com
-* **Cristina Calinescu** - Full Stack Developer  
+* **Cristina Calinescu** - Role  
 :envelope: cristina.maria0211@gmail.com
-* **Denisa Dumitru** - Full Stack Developer  
+* **Denisa Dumitru** - Role  
 :envelope: mdenisadumitru@gmail.com
 
 # The problem
@@ -46,16 +46,25 @@ Glassdoor is one of the world’s largest job and recruiting sites. Built on the
 
 :heavy_plus_sign: easy to use  
 :heavy_plus_sign: saves time for all users  
-:heavy_plus_sign: ?
+:heavy_plus_sign: ease of communication between employer and candidates
+:heavy_plus_sign: view job offers faster
 
 # Key Metrics
 
 **Number of new customers/Growth:** In order for customer to switch to our service, we need to provide at least one thing better than any products on the same market. We want to help people find a job faster than any other service. First of all, we have to tell people about our platform and make them register and create a job profile. We expect at least 30 candidate accounts and 5 companies registered in the first 3 months.
 
-**Daily Active Users:** it's a glimpse into how many users are using your product or application on a daily basis
+**Daily Active Users:** The platform aims to help users track more job offers so they can find a place as quickly as possible. We expect users to spend about 3 hours a day.
  
-**Retention Rate:**  We believe that customer experience  Also known as churn rate, retention rate evaluates the percentage of customers that stay with you and the percentage that leave over a given time period
+**Retention Rate:**  We want the users experience to be as pleasant as possible in order to find a job. So we expect them to leave the application in 1-2 weeks after they will discuss with the employers for the hiring process. 
 
 # Cost Structure
 
+:heavy_plus_sign: Advertising and promotion
+:heavy_plus_sign: Equipment, license and supplies
+:heavy_plus_sign: Rent space
+:heavy_plus_sign: Salaries
+
 # Revenue Streams
+
+The revenues will come from partnerships with other companies on the human resources side. We also introduce certain premium services that give the user the opportunity to appear his resume among the first ones when the recruiter also looks for employees.
+
