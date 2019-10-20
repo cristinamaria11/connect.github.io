@@ -17,7 +17,7 @@ We encountered this problem and noticed that many colleagues have gone through t
 In order to test our hypotheses, we start asking people who we believe could be potential customers. For Connect, this means reaching out to students from university and people from human resources department to make sure we test all aspects of our market and get a better understanding of our potential clients.
 
 **Evaluate customer feedback and determine next steps**
-<img src="/connect.github.io/images/angajat-q1.png" alt="angajat-q1" width="300" height="200">
+<img src="/connect.github.io/images/angajat-q1.png" alt="angajat-q1" width="400" height="200">
 <img src="/connect.github.io/images/angajat-q2.png" alt="angajat-q2" width="300" height="200">
 <img src="/connect.github.io/images/angajat-q3.png" alt="angajat-q3" width="300" height="200">
 <img src="/connect.github.io/images/angajat-q4.png" alt="angajat-q4" width="300" height="200">
