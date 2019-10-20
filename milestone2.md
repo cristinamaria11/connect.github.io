@@ -30,6 +30,7 @@ In order to test our hypotheses, we start asking people who we believe could be 
 
  
  # Conclusion
+ 
  Do you consider that you are ready to move to the Customer Validation stage (to test selling)? Provide arguments.
  
  
