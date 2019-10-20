@@ -8,7 +8,16 @@ Our project comes with a solution for the problem mentioned above.
 Connect is a web application which is based on the match between employers and employees. Both of them can see the other's profile and swipe right if they like what they see. Only if there is a match, the employment process can continue and if not, contact can not be made. Following these rules, the amount of candidates is smaller and, in the same time, the candidates are not approached by so many recruiters.
 
 # Plan for customer discovery 
-short overview before going into detail
+
+**Hypotheses:**
+Our idea solves the complexity and large time of hiring process by creating an app which is based on the match between employers and employees.
+We encountered this problem and noticed that many colleagues have gone through this. So the main audience is represented by students who are quickly looking for a job to gain experience. They want it to be a quick process and to find what fits them in the job listings. To apply for a job requires minimal effort that is also fun and attractive.
+
+**Test hypotheses:**
+In order to test our hypotheses, we start asking people who we believe could be potential customers. For Connect, this means reaching out to students from university and people from human resourses department to make sure we test all aspects of our market and get a better understanding of our potential clients.
+
+**Evaluate customer feedback and determine next steps:**
+
 
 # Describe the process in detail
 
