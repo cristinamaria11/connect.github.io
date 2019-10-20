@@ -18,7 +18,7 @@ In order to test our hypotheses, we start asking people who we believe could be 
 
 **Evaluate customer feedback and determine next steps**
 <img src="/connect.github.io/images/angajat-q1.png" alt="angajat-q1" width="400" height="200">
-<img src="/connect.github.io/images/angajat-q2.png" alt="angajat-q2" width="300" height="200">
+<img src="/connect.github.io/images/angajat-q2.png" alt="angajat-q2" width="400" height="200">
 <img src="/connect.github.io/images/angajat-q3.png" alt="angajat-q3" width="300" height="200">
 <img src="/connect.github.io/images/angajat-q4.png" alt="angajat-q4" width="300" height="200">
 <img src="/connect.github.io/images/angajat-q5.png" alt="angajat-q5" width="300" height="200">
