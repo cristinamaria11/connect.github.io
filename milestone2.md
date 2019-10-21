@@ -16,7 +16,7 @@ We encountered this problem and noticed that many colleagues have gone through t
 **Test hypotheses:**
 In order to test our hypotheses, we start asking people who we believe could be potential customers. For Connect, this means reaching out to students from university and people from human resources department to make sure we test all aspects of our market and get a better understanding of our potential clients.
 
-**Evaluate customer feedback and determine next steps:**
+**Evaluate customer feedback:**
 
 <img src="/connect.github.io/images/angajat-q1.png" alt="angajat-q1" width="600" height="300">
 <img src="/connect.github.io/images/angajat-q2.png" alt="angajat-q2" width="600" height="300">
@@ -29,8 +29,7 @@ In order to test our hypotheses, we start asking people who we believe could be 
 <img src="/connect.github.io/images/angajat-q9.png" alt="angajat-q9" width="600" height="300">
 
  
- # Conclusion
- 
- Do you consider that you are ready to move to the Customer Validation stage (to test selling)? Provide arguments.
- 
+# Conclusion
+Considering the results of the questionnaire, the most common problem among candidates is the duration until they receive a response from the employer. Also, another problem that arises is finding the right job ad so that it is fast and easy. We noticed that many prefer to use the official website of the company when they want to apply what is delaying the process, given that they have observed the announcement on another platform. Because of this, we are thinking of giving users the confidence to use a single platform, because the employer also uses the application for the selection of candidates with whom he matches. Connect will be easy to use and will attract the user to spend as much time as possible through the swipe method so he just simply choose what he likes. We believe that once the customers’ responses match your hypothesis, we can go further and come up with a solution for this.
+
  
