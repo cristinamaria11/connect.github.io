@@ -60,9 +60,9 @@ Glassdoor is one of the world’s largest job and recruiting sites. Built on the
 
 # Cost Structure
 
-:heavy_plus_sign: Advertising and promotion
-:heavy_plus_sign: Equipment, license and supplies
-:heavy_plus_sign: Rent space
+:heavy_plus_sign: Advertising and promotion  
+:heavy_plus_sign: Equipment, license and supplies  
+:heavy_plus_sign: Rent space  
 :heavy_plus_sign: Salaries
 
 # Revenue Streams
