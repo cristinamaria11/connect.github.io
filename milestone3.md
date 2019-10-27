@@ -3,7 +3,7 @@
 Accessible here
 
 # Mock-ups
-<img src="/connect.github.io/images/Log in.png" alt="login" >
+<img src="/connect.github.io/images/Log in.png" alt="login" title="Log in">
 <img src="/connect.github.io/images/Log in + input example.png" alt="Loginexample" >
 <img src="/connect.github.io/images/Insert email address - wrong format.png" alt="insertemailwrong" >
 <img src="/connect.github.io/images/Insert email address - no user found.png" alt="insertemailerror" >
