@@ -50,4 +50,6 @@ The page which presents the most important reasons why someone should use this p
 </div>
 
 
-<div style="text-align: left"> <a href="milestone2.html" target="_blank"> << Milestone 2 </a>  </div>
+<div style="text-align: left"> <a href="milestone2.html" > << Milestone 2 </a>  </div>
+<input type="button" value="<< Milestone 2" onclick="window.location.href='milestone2.html'" />
+
