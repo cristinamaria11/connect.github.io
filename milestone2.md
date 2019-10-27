@@ -36,6 +36,6 @@ Considering the results of the questionnaire, the most common problem among cand
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 1" onclick="window.location.href='milestone1.html'" />
 </div>
-<div style="display:inline; float:left">
+<div style="display:inline; float:right">
 <input type="button" class="button" value="Milestone 3 >>" onclick="window.location.href='milestone3.html'" />
 </div>
