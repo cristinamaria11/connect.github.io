@@ -16,7 +16,9 @@ The page which presents the most important reasons why someone should use this p
 
 **Select profile type**
 
-<img src="/connect.github.io/images/Choose user type.png" alt="chooseusertype" >
+<div id="soloImg">
+  <img src="/connect.github.io/images/Choose user type.png" alt="chooseusertype" >
+</div>
 
 **Search for candidates screen**
 
@@ -25,20 +27,29 @@ The page which presents the most important reasons why someone should use this p
 
 **Register a new job offer**
 
-<img src="/connect.github.io/images/Create job type.png" alt="createjobtype" >
+<div id="soloImg">
+  <img src="/connect.github.io/images/Create job type.png" alt="createjobtype" >
+</div>
 
 **Candidate profile example**
 
-<img src="/connect.github.io/images/Candidate profile.png" alt="candidateprofile" >
+<div id="soloImg">
+  <img src="/connect.github.io/images/Candidate profile.png" alt="candidateprofile" >
+</div>
 
 **Create new candidate profile**
 
-<img src="/connect.github.io/images/Register.png" alt="register" >
+<div id="soloImg">
+  <img src="/connect.github.io/images/Register.png" alt="register" >
+</div>
 
 **Create new company profile**
 
-<img src="/connect.github.io/images/Register company.png" alt="registercompany" >
+<div id="soloImg">
+  <img src="/connect.github.io/images/Register company.png" alt="registercompany" >
+</div>
 
 
 <div style="text-align: left"> <a href="milestone2.html" > << Milestone 2 </a>  </div>
 <input type="button" value="<< Milestone 2" onclick="window.location.href='milestone2.html'" />
+
