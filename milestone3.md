@@ -39,4 +39,4 @@ Accessible here
 <img src="/connect.github.io/images/Register company.png" alt="registercompany" >
 
 
-:arrow_left: [Milestone 2](milestone2.md)
+<div style="text-align: left"> <a href="milestone2.html" target="_blank"> << Milestone 2 </a>  </div>
