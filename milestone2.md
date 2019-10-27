@@ -33,5 +33,6 @@ In order to test our hypotheses, we start asking people who we believe could be 
 Considering the results of the questionnaire, the most common problem among candidates is the duration until they receive a response from the employer. Also, another problem that arises is finding the right job ad so that it is fast and easy. We noticed that many prefer to use the official website of the company when they want to apply what is delaying the process, given that they have observed the announcement on another platform. Because of this, we are thinking of giving users the confidence to use a single platform, because the employer also uses the application for the selection of candidates with whom he matches. Connect will be easy to use and will attract the user to spend as much time as possible through the swipe method so he just simply choose what he likes. We believe that once the customers’ responses match your hypothesis, we can go further and come up with a solution for this.
 
  
-<div style="text-align: left"> <a href="milestone1.html" > << Milestone 1 </a>  </div>
-<div style="text-align: right"> <a href="milestone3.html" > Milestone 3 >> </a>  </div>
+
+<input style="text-align: left" type="button" class="button" value="<< Milestone 1" onclick="window.location.href='milestone1.html'" />
+<input style="text-align: right" type="button" class="button" value="Milestone 3 >>" onclick="window.location.href='milestone3.html'" />
