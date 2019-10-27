@@ -1,6 +1,6 @@
 # Landing Page
 
-Accessible <a href="index.html" target="_blank">Here</a>
+The page which presents the most important reasons why someone should use this product is accessible <a href="index.html" target="_blank">here</a>
 
 
 # Mock-ups
