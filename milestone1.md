@@ -69,5 +69,6 @@ Glassdoor is one of the world’s largest job and recruiting sites. Built on the
 
 The revenues will come from partnerships with other companies on the human resources side. We also introduce certain premium services that give the user the opportunity to appear his resume among the first ones when the recruiter also looks for employees.
 
-<div style="text-align: right"> <a href="milestone2.html" > Milestone 2 >> </a>  </div>
-<input style="text-align: right" type="button" class="button" value="Milestone 2 >>" onclick="window.location.href='milestone2.html'" />
+<div style="text-align: right">
+<input type="button" class="button" value="Milestone 2 >>" onclick="window.location.href='milestone2.html'" />
+</div>
