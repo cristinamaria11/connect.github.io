@@ -3,6 +3,7 @@
 Accessible here
 
 # Mock-ups
+**Login screen with example**
 <img src="/connect.github.io/images/Log in.png" alt="login" title="Log in">
 <img src="/connect.github.io/images/Log in + input example.png" alt="Loginexample" >
 <img src="/connect.github.io/images/Insert email address - wrong format.png" alt="insertemailwrong" >
@@ -11,7 +12,9 @@ Accessible here
 <img src="/connect.github.io/images/Choose user type.png" alt="chooseusertype" >
 <img src="/connect.github.io/images/Choose user type-1.png" alt="chooseusertype1" >
 <img src="/connect.github.io/images/Candidate profile.png" alt="candidateprofile" >
+**Create new applicant profile**
 <img src="/connect.github.io/images/Register.png" alt="register" >
+**Create new company profile**
 <img src="/connect.github.io/images/Register company.png" alt="registercompany" >
 <img src="/connect.github.io/images/Recommended candidates.png" alt="recommendedcandidates" >
 
