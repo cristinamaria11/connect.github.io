@@ -14,3 +14,6 @@ Accessible here
 <img src="/connect.github.io/images/Register.png" alt="register" >
 <img src="/connect.github.io/images/Register company.png" alt="registercompany" >
 <img src="/connect.github.io/images/Recommended candidates.png" alt="recommendedcandidates" >
+
+
+[Milestone 1](milestone1.md)    [Milestone 2](milestone2.md)
