@@ -1,6 +1,7 @@
 # Landing Page
 
-Accessible here
+Accessible <a href="index.html" target="_blank">Here</a>
+
 
 # Mock-ups
 **Login screen with example**
