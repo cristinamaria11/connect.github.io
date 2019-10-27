@@ -51,5 +51,5 @@ The page which presents the most important reasons why someone should use this p
 
 
 <div style="text-align: left"> <a href="milestone2.html" > << Milestone 2 </a>  </div>
-<input type="button" value="<< Milestone 2" onclick="window.location.href='milestone2.html'" />
+<input type="button" class="button" value="<< Milestone 2" onclick="window.location.href='milestone2.html'" />
 
