@@ -63,6 +63,11 @@ or who did not apply on the site and the team must search through the millions o
 # User persona
 
 # User stories
+As a candidate, I am looking to find a job which suits me and get rid of the anxiety of new beginnings in a fun way. 
+The user should open the Connect App, login, save his personal data/CV and start searching for job ads. All he has to do is 
+just a simple swipe right if he likes it. If he change his minds and search for another job, he could easily edit his profile.
+
+As a recruitor, who wants to hire the right person for the job, I post the job offer and analyse the candidates profiles. If the recruitor finds a proper candidate and the candidate has already chosen the job, it's a match and emails will be sent to candidates for the interview.
 
 ## Use cases UML for logged users
 <img src="/connect.github.io/images/use_cases/use_cases_uml.png" alt="usecasesuml" >
