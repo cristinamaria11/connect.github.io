@@ -6,13 +6,13 @@
 
 # User stories, use cases / user flows
 <br/>:large_blue_diamond: **Use cases UML for logged users**
-<img src="/connect.github.io/images/use_cases/usecases.png" alt="usecasesuml" >
+<img src="/connect.github.io/images/use_cases/use_cases_uml.png" alt="usecasesuml" >
 
 <br/>:large_blue_diamond: **General use cases for unlogged users**
-<img src="/connect.github.io/images/use_cases/newuser.png" alt="newuser" >
+<img src="/connect.github.io/images/use_cases/new_user_case.png" alt="newuser" >
 
 <br/>:large_blue_diamond: **Statechart diagram**
-<img src="/connect.github.io/images/use_cases/stateuml.png" alt="state" >
+<img src="/connect.github.io/images/use_cases/statechart_uml.png" alt="state" >
 
 <br/>:large_blue_diamond: **Flow for viewing the recommendation tables**
 <img src="/connect.github.io/images/use_cases/show_recommendation_tables.png" alt="use_cases" >
