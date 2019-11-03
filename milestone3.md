@@ -54,8 +54,8 @@ The page which presents the most important reasons why someone should use this p
 
  
 <div style="display:inline; float:left">
-<input type="button" class="button" value="<< Milestone 2" onclick="window.location.href='milestone1.html'" />
+<input type="button" class="button" value="<< Milestone 2" onclick="window.location.href='milestone2.html'" />
 </div>
 <div style="display:inline; float:right">
-<input type="button" class="button" value="Milestone 4 >>" onclick="window.location.href='milestone3.html'" />
+<input type="button" class="button" value="Milestone 4 >>" onclick="window.location.href='milestone4.html'" />
 </div>
