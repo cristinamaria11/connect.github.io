@@ -8,10 +8,10 @@
 <img src="/connect.github.io/images/use_cases/new_user_case.png" alt="new_user_case" >
 <img src="/connect.github.io/images/use_cases/use_cases.png" alt="use_cases" >
 
-<br/>:o: **Flow for viewing the recommendation tables**
+<br/>:small_blue_diamond: **Flow for viewing the recommendation tables**
 <img src="/connect.github.io/images/use_cases/show_recommendation_tables.png" alt="use_cases" >
 
-<br/>:o: **Flow for editing a user profile**
+<br/>:small_blue_diamond: **Flow for editing a user profile**
 <img src="/connect.github.io/images/use_cases/edit_profiles.png" alt="use_cases" >
 
 # Update your wireframes
