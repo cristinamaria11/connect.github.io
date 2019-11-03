@@ -10,7 +10,7 @@
 <br/>:large_blue_diamond: **General use cases for unlogged users**
 <img src="/connect.github.io/images/use_cases/newuser.png" alt="newuser" >
 
-<br/>:large_blue_diamond: **Statechart diagram **
+<br/>:large_blue_diamond: **Statechart diagram**
 <img src="/connect.github.io/images/use_cases/stateuml.png" alt="state" >
 
 <br/>:large_blue_diamond: **Flow for viewing the recommendation tables**
