@@ -1,6 +1,6 @@
 
 # Face-to-face interviews   
-We chose to interview a few possible users for this part. We talked with some candidates that are currently looking for making a change in their career or that already did this change. We decided to talk only with them and not with recruiters because we think they would represent our main targeted customer segment.
+We chose to interview a few possible users for this part. We talked with some candidates that are currently looking for making a change in their career or that already did this change. We decided to talk mostly with them and not with recruiters because we think they would represent our main targeted customer segment. We also talked with a recruiter because despite the fact that they are not the main ones that will use our app, they will be a pretty big customer segment.
 ## Questions our possible customers responded to
 :question: Are you currently an employee?   
 :question: Is this your first job?   
