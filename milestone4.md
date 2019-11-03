@@ -3,7 +3,7 @@
 ## Questions our possible customers responded to
 :question: Are you currently an employee?   
 :question: Is this your first job?   
-:question: Do you prefer to look for a job online? Why?
+:question: Do you prefer to look for a job online? Why?  
 :question: Do you consider it annoying to be contacted for jobs that you have no interest in?   
 :question: How long do you think the whole process of getting yourself employed should take?  
 :question: Describe a bad experience you have had while looking for a job.   
