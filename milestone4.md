@@ -1,23 +1,28 @@
 
 # Face-to-face interviews
-<br/>:woman: **Interview with Andreea**
+## Questions our possible customers responded to
+:question: question 1
+:question: question 2
+
+<br/>
+:woman: **Interview with Andreea**
 
 # User persona
 
 # User stories, use cases / user flows
-<br/>:large_blue_diamond: **Use cases UML for logged users**
+##Use cases UML for logged users
 <img src="/connect.github.io/images/use_cases/use_cases_uml.png" alt="usecasesuml" >
 
-<br/>:large_blue_diamond: **General use cases for unlogged users**
+##General use cases for unlogged users
 <img src="/connect.github.io/images/use_cases/new_user_case.png" alt="newuser" >
 
-<br/>:large_blue_diamond: **Statechart diagram**
+##Statechart diagram
 <img src="/connect.github.io/images/use_cases/statechart_uml.png" alt="state" >
 
-<br/>:large_blue_diamond: **Flow for viewing the recommendation tables**
+##Flow for viewing the recommendation tables
 <img src="/connect.github.io/images/use_cases/show_recommendation_tables.png" alt="use_cases" >
 
-<br/>:large_blue_diamond: **Flow for editing a user profile**
+##Flow for editing a user profile
 <img src="/connect.github.io/images/use_cases/edit_profiles.png" alt="use_cases" >
 
 # Update your wireframes
