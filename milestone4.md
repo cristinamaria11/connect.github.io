@@ -9,3 +9,5 @@
 <img src="/connect.github.io/images/use_cases/use_cases.png" alt="use_cases" >
 
 # Update your wireframes
+
+<input type="button" class="button" value="<< Milestone 3" onclick="window.location.href='milestone3.html'" />
