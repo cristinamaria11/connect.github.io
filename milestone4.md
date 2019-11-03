@@ -84,6 +84,18 @@ We also talked to a recruiter to better understand the hiring process. Ana is 25
 or who did not apply on the site and the team must search through the millions of profiles on linkedin and ask people. Usually there are many roles that are available and they must also consider the category of people who want to change their jobs. She also told us that usually people are categorized, in "called for an interview", "rejected" and "pending". There are cases when an experienced candidate is wanted but most of them ask for a lot of money and exceed the budget. During this time, the manager can change his mind and ask for a junior, and the HR team starts scrolling again on the pages because in all this time they lost candidates.  She told us that within the company at HR there is only one account for the whole team so that they do not discuss with the same candidate again and they use desktop application most of the time and a mobile application like tinder for jobs is an attractive idea for her.
 
 # User persona
+Let us now talk about Marius.
+
+Marius is your typical 23 year old, who just graduated from university, has a bit of work experience and is full of ambition. He has a full-tim joband some free time he would rather not waste on tedious things. Will challenge himself to overcome whatever obstacles appear in his path, although would prefer if the path was smooth and clear all the way to the end. 
+
+On his mind, there are a number of things:
+   * Getting a well payed job
+   * Learning new, different things
+   * Workplace satisfaction
+
+He also dislikes beeing kept on edge by people he expects an answer from and he would rather not be bothered with things that don't interest him.
+
+He wishes to be apply to different jobs online, in an area of his interest, without having to give up his current employment. His aim is to find clear, detailed job descriptions, which he would like to filter according to his own criteria. He would also prefer if the recruiters would answer promptly to his applications, without delaying or changing different details.
 
 # User stories
 As a candidate, I am looking to find a job which suits me and get rid of the anxiety of new beginnings in a fun way. 
