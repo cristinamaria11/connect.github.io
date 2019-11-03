@@ -10,8 +10,7 @@ We chose to interview a few possible users for this part. We talked with some ca
 :question: Describe a bad experience you have had while looking for a job.   
 :question: Describe how a good process of finding a job should look for you.   
 
-<br/>
-:woman: **Interview with Andreea**   
+### Interview with Andreea
 
 :question: Are you currently an employee?   
 Yes, actually I am.
