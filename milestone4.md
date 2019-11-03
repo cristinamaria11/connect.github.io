@@ -33,6 +33,8 @@ The fact that I hate the most while applying to new jobs is when one company doe
 :question: Describe how a good process of finding a job should look for you.  
 Well, first of all, I think that I should be able to apply to a few jobs that I  would like in order to see what is on the market, so to speak. Then, after getting my CV viewed by the HR, establishing when to start with the first step of their process of hiring. This shouldn't take more than a few days, maybe a week maximum. After this, depending on their flow, the response after every step should't  take more than a couple of days and if it's the case, they should notice me about being late for whatever reason.
 
+## Interview with a recruiter
+
 # User persona
 
 # User stories, use cases / user flows
