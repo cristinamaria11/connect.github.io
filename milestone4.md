@@ -5,7 +5,7 @@
 :question: Is this your first job?   
 :question: Do you prefer to look for a job online? Why?
 :question: Do you consider it annoying to be contacted for jobs that you have no interest in?   
-:question: How long do you think the whole process of getting yourself employed should take? 
+:question: How long do you think the whole process of getting yourself employed should take?  
 :question: Describe a bad experience you have had while looking for a job.   
 :question: Describe how a good process of finding a job should look for you.   
 
