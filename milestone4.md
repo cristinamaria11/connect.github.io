@@ -12,7 +12,7 @@
 <img src="/connect.github.io/images/use_cases/display_recomandation_tables_flowchart.png" alt="use_cases" >
 
 <br/>**Flow for editing a user profile**
-<img src="/connect.github.io/images/use_cases/edit_profiles_flow.png" alt="use_cases" >
+<img src="/connect.github.io/images/use_cases/test.png" alt="use_cases" >
 
 # Update your wireframes
 
