@@ -56,6 +56,29 @@ Last year, I have applied for a summer internship at Bloomberg. I was quicky con
 :question: Describe how a good process of finding a job should look for you.          
 A good process of finding a job should allow me to quickly filter and find jobs that fit my interests. For this, useful filters would be: required experience, programming languages, technologies. I expect to get in touch with employers willing to offer me an interview and schedule a meeting within two weeks time and to get a response in at most 1-2 weeks after the interview.
 
+### Interview with Gabriel
+
+:question: Are you currently an employee?   
+Yes.
+
+:question: Is this your first job?   
+No, this is the second one.
+
+:question: Do you prefer to look for a job online? Why?  
+Yes, i think it is a much easier way to reach the opportunity that suits you best via online applications.
+
+:question: Do you consider it annoying to be contacted for jobs that you have no interest in?   
+I actually am, it is annoying to try to explain the recruiter that even though the position looks interesting it is not interesting for me and if i think this from another perspective it is not only about thinking about a response but for the wasted time.
+
+:question: How long do you think the whole process of getting yourself employed should take?  
+One week, maybe two.
+
+:question: Describe a bad experience you have had while looking for a job.  
+This wasn’t that bad, but it was interesting how much important the communication is. After a week or so looking for a job i decided that a certain position would be the best choice. The HR interview wasn’t that big of a deal, the technical one it was decent and finally the meeting with the manager i could say it was the cherry on top. After some other technical questions we talked about the project and the team, we dive in the list of my attributions and here comes the surprise. The job I initially applied was no longer available and they wanted to place me on a different position even though the technologies were partially different and the whole idea of the project was not on my wishlist. 
+
+:question: Describe how a good process of finding a job should look for you. 
+Clear job description and a short period of time required for the whole process of interviewing.
+
 ## Interview with a recruiter
 We also talked to a recruiter to better understand the hiring process. Ana is 25 years old, has worked in many companies in HR department and now works as People Analytics Specialist. She told us that it always happens to apply inadequate people who have no experience in the field and are rare chances for them to fill the position. If an intership is opened he is contacted but most of the time the candidate is no longer available. The hiring process may take a different time depending on the job available. If the candidate is a junior, it may take up to a week, but for a senior with more experience, more tests are carried out by managers. There is also the problem when there are no candidates to match the profile on hipo 
 or who did not apply on the site and the team must search through the millions of profiles on linkedin and ask people. Usually there are many roles that are available and they must also consider the category of people who want to change their jobs. She also told us that usually people are categorized, in "called for an interview", "rejected" and "pending". There are cases when an experienced candidate is wanted but most of them ask for a lot of money and exceed the budget. During this time, the manager can change his mind and ask for a junior, and the HR team starts scrolling again on the pages because in all this time they lost candidates.  She told us that within the company at HR there is only one account for the whole team so that they do not discuss with the same candidate again and they use desktop application most of the time and a mobile application like tinder for jobs is an attractive idea for her.
