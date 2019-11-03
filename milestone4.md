@@ -35,25 +35,25 @@ Well, first of all, I think that I should be able to apply to a few jobs that I 
 
 ### Interview with Bogdan
 
-:question: Are you currently an employee?
+:question: Are you currently an employee?          
 Yes I am employed.
 
-:question: Is this your first job? 
+:question: Is this your first job?          
 No, this is my second job.
 
-:question: Do you prefer to look for a job online? Why? 
+:question: Do you prefer to look for a job online? Why?               
 It's easier to look for a job online. Aside from the job description, you can find a lot of useful information about the company which is valuable information before commiting to a job there. Also, in my field of activity, computer science, most jobs are listed online, I wouldn't know where else to look for a job.
 
-:question: Do you consider it annoying to be contacted for jobs that you have no interest in? 
+:question: Do you consider it annoying to be contacted for jobs that you have no interest in?        
 Yes, I find this very annoying. I receive many messages on Linkedin for example from recruiters searching for candidates. While I'm happy at my current job, I simply ignore these messages. They are mostly generic and do not suit my interests.
 
-:question: How long do you think the whole process of getting yourself employed should take? 
+:question: How long do you think the whole process of getting yourself employed should take?         
 I believe a complete employment process should take between 2-4 weeks. This includes a phone screen, one or more interviews, getting an offer and signing it. A process longer than this makes me lose my interest and look for a job elsewhere.
 
-:question: Describe a bad experience you have had while looking for a job. 
+:question: Describe a bad experience you have had while looking for a job.         
 Last year, I have applied for a summer internship at Bloomberg. I was quicky contacted to do an online test. After the test, I had an interview which went quite decent, but after that, I did not hear from them for a long time. A couple of months later, I received an apology email telling me that the process will take a little longer because the high number of candidates, but in the end I was rejected.
 
-:question: Describe how a good process of finding a job should look for you. 
+:question: Describe how a good process of finding a job should look for you.          
 A good process of finding a job should allow me to quickly filter and find jobs that fit my interests. For this, useful filters would be: required experience, programming languages, technologies. I expect to get in touch with employers willing to offer me an interview and schedule a meeting within two weeks time and to get a response in at most 1-2 weeks after the interview.
 
 ## Interview with a recruiter
