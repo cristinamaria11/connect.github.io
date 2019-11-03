@@ -1,5 +1,6 @@
 
-# Face-to-face interviews
+# Face-to-face interviews   
+We chose to interview a few possible users for this part. We talked with some candidates that are currently looking for making a change in their career or that already did this change. We decided to talk only with them and not with recruiters because we think they would represent our main targeted customer segment.
 ## Questions our possible customers responded to
 :question: Are you currently an employee?   
 :question: Is this your first job?   
