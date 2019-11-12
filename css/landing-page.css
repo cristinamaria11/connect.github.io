@@ -27,7 +27,7 @@ header.masthead {
 
 header.masthead .overlay{
   position: absolute;
-  background-color: #159957;
+  background-color: white;
   background-image: url('images/landing_page/connect.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
