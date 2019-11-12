@@ -62,6 +62,10 @@ header.masthead h1 {
   min-height: 30rem;
   background-size: cover;
 }
+.showcase .showcase-img2 {
+  min-height: 50rem;
+  background-size: cover;
+}
 
 @media (min-width: 768px) {
   .showcase .showcase-text {
