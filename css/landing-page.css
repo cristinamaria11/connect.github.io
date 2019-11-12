@@ -28,7 +28,7 @@ header.masthead {
 header.masthead .overlay{
   position: absolute;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #c31432, #240b36);
+  background-image: url('images/landing_page/connect.jpg');
   color:white;
   height: 100%;
   width: 100%;
