@@ -3,7 +3,7 @@
 Our team members are mentioned below where is also specified a contact address for each of them and also their role in this project. 
 * **Monica Stanciu** - Product Owner  
 :envelope: monicastanciu16@gmail.com
-* **Andrei Sterian** - Full Stack Developer  
+* **Andrei Sterian** - Marketing Expert  
 :envelope: sterianandrei@gmail.com
 * **Dan Dragomir** - Full Stack Developer  
 :envelope: dragomir_dan_gabriel@yahoo.com
