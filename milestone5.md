@@ -4,7 +4,7 @@
 
 <img src="/connect.github.io/images/facebook_page/connect_page.png" alt="page" >
 <img src="/connect.github.io/images/facebook_page/post_group_fb.png" alt="groupfb" >
-<img src="/connect.github.io/images/facebook_page/invite_fb.png" alt="invitefb" >
+<img src="/connect.github.io/images/facebook_page/invite_fb.JPG" alt="invitefb" >
 <img src="/connect.github.io/images/facebook_page/post1_fb.png" alt="1_fb" >
 <img src="/connect.github.io/images/facebook_page/post2_fb.png" alt="2_fb" >
 <img src="/connect.github.io/images/facebook_page/post3_fb.png" alt="3_fb" >
