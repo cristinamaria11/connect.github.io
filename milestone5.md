@@ -41,7 +41,7 @@ We also created several posts on the page, trying to raise awareness of our land
 ### Heat-maps/Click-maps
 <img src="/connect.github.io/images/analytics/all_heatmaps.png" alt="urec" >
 <img src="/connect.github.io/images/analytics/click_map.png" alt="clmap" >
-
+<img src="/connect.github.io/images/analytics/heatmap.png" alt="htmap" >
 
 ### User recording
 <img src="/connect.github.io/images/analytics/user_recording.png" alt="urec" >
