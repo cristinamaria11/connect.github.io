@@ -4,9 +4,12 @@ Through the subsription form posted on our landing page, we managed to get the e
 
 # Bring people on our landing page
 
-We created a facebook page to promote our platform and you cloud find it <a href="https://www.facebook.com/Connect-101024858032190/?ref=br_rs" target="_blank">here</a>
+We created a facebook page to promote our platform, which you can find at <a href="https://www.facebook.com/Connect-101024858032190/?ref=br_rs" target="_blank">this address</a>.
 
 <img src="/connect.github.io/images/facebook_page/connect_page.png" alt="page" >
+
+We then proceded to distribute the page on different facebook groups.
+
 <img src="/connect.github.io/images/facebook_page/post_group_fb.png" alt="groupfb" >
 <img src="/connect.github.io/images/facebook_page/post1_fb.png" alt="1_fb" >
 <img src="/connect.github.io/images/facebook_page/post2_fb.png" alt="2_fb" >
