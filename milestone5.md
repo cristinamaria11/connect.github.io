@@ -12,6 +12,7 @@ We created a facebook page to promote our platform, which you can find at <a hre
 We then proceded to distribute our landing page on facebook and invite people on our facebook page to get the news.
 
 <img src="/connect.github.io/images/facebook_page/post_group_fb.png" alt="groupfb" >
+<a href="https://www.facebook.com/groups/2234775729904943/permalink/2463721593677021/" target="_blank">Link here</a>.
 
 <img src="/connect.github.io/images/facebook_page/invite_fb.JPG" alt="invitefb" >
 
