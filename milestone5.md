@@ -12,7 +12,7 @@ We then proceded to distribute our landing page on facebook and invite people on
 
 <img src="/connect.github.io/images/facebook_page/post_group_fb.png" alt="groupfb" >
 
-<img src="/connect.github.io/images/facebook_page/invite_fb.JPG" alt="groupfb" >
+<img src="/connect.github.io/images/facebook_page/invite_fb.JPG" alt="invitefb" >
 
 We also created several posts on the page, trying to raise awareness of our landing page, but also to gain the interest of our visitors.
 
