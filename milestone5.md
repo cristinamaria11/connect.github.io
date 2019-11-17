@@ -17,16 +17,16 @@ We then proceded to distribute our landing page on facebook and invite people on
 
 We also created several posts on the page, trying to raise awareness of our landing page, but also to gain the interest of our visitors.
 
-* <img src="/connect.github.io/images/facebook_page/post1_fb.png" alt="1_fb" >
+<img src="/connect.github.io/images/facebook_page/post1_fb.png" alt="1_fb" >
 <a href="https://www.facebook.com/permalink.php?story_fbid=102050437929632&id=101024858032190&__tn__=-R" target="_blank">Link here</a>.
 
-* <img src="/connect.github.io/images/facebook_page/post2_fb.png" alt="2_fb" >
+<img src="/connect.github.io/images/facebook_page/post2_fb.png" alt="2_fb" >
 <a href="https://www.facebook.com/permalink.php?story_fbid=102089964592346&id=101024858032190&__tn__=-R" target="_blank">Link here</a>.
 
-* <img src="/connect.github.io/images/facebook_page/post3_fb.png" alt="3_fb" >
+<img src="/connect.github.io/images/facebook_page/post3_fb.png" alt="3_fb" >
 <a href="https:https://www.facebook.com/101024858032190/photos/a.102107094590633/102106837923992/?type=3&theater" target="_blank">Link here</a>.
 
-* <img src="/connect.github.io/images/facebook_page/post4_fb.png" alt="4_fb" >
+<img src="/connect.github.io/images/facebook_page/post4_fb.png" alt="4_fb" >
 <a href="https://www.facebook.com/101024858032190/videos/759877427758860/?__tn__=-R" target="_blank">Link here</a>.
 
 # Analytics on our landing page
