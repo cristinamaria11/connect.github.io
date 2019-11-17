@@ -1,5 +1,7 @@
 # Collect contact information from potential users
 
+Through the subsription form posted on our landing page, we managed to get the email addresses of around 20 possible users, who will receive our newsletter and the latest news regarding the devlopment of the application.
+
 # Bring people on our landing page
 
 We created a facebook page to promote our platform and you cloud find it <a href="https://www.facebook.com/Connect-101024858032190/?ref=br_rs" target="_blank">here</a>
