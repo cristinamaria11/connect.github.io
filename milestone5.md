@@ -15,8 +15,11 @@ We then proceded to distribute the page on different facebook groups.
 We also created several posts on the page, trying to raise awareness of our landing page, but also tp gain the interest of our visitors.
 
 <img src="/connect.github.io/images/facebook_page/post1_fb.png" alt="1_fb" >
+
 <img src="/connect.github.io/images/facebook_page/post2_fb.png" alt="2_fb" >
 <img src="/connect.github.io/images/facebook_page/post3_fb.png" alt="3_fb" >
+<a href="https://www.facebook.com/101024858032190/photos/a.102107094590633/102106837923992/?type=3&theater" target="_blank">Link here</a>.
+
 <img src="/connect.github.io/images/facebook_page/post4_fb.png" alt="4_fb" >
 
 # Analytics on our landing page
