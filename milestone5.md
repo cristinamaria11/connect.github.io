@@ -1,6 +1,7 @@
 # Collect contact information from potential users
 
 Through the subsription form posted on our landing page, we managed to get the email addresses of around 20 possible users, who will receive our newsletter and the latest news regarding the devlopment of the application.
+<img src="/connect.github.io/images/analytics/form_contact_page.png" alt="formcontact" >
 
 # Bring people on our landing page
 
