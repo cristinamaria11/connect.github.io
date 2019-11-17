@@ -1,6 +1,6 @@
 # Landing Page
 
-The page which presents the most important reasons why someone should use this product is accessible <a href="index.html" target="_blank">here</a>
+The page which presents the most important reasons why someone should use this product is accessible <a href="https://www.facebook.com/Connect-101024858032190/?ref=br_rs" target="_blank">here</a>
 
 
 # Mock-ups
