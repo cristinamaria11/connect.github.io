@@ -122,4 +122,11 @@ As a recruitor, who wants to hire the right person for the job, I post the job o
 # Update wireframes
 Considering the answers of the posible users, the candidates prefer to spend time searching for jobs they would like. Also a process longer than two weeks makes them lose interest and look for a job elsewhere. According to recruitor answer, we are thinking to add a special feature for them, something like "swipe up", to categorize the candidates as "maybe" if the level of experience is less than what they are searching for.  
 
+
+ 
+<div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 3" onclick="window.location.href='milestone3.html'" />
+</div>
+<div style="display:inline; float:right">
+<input type="button" class="button" value="Milestone 5 >>" onclick="window.location.href='milestone5.html'" />
+</div>
