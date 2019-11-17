@@ -8,11 +8,13 @@ We created a facebook page to promote our platform, which you can find at <a hre
 
 <img src="/connect.github.io/images/facebook_page/connect_page.png" alt="page" >
 
-We then proceded to distribute the page on different facebook groups.
+We then proceded to distribute our landing page on facebook and invite people on our facebook page to get the news.
 
 <img src="/connect.github.io/images/facebook_page/post_group_fb.png" alt="groupfb" >
 
-We also created several posts on the page, trying to raise awareness of our landing page, but also tp gain the interest of our visitors.
+<img src="/connect.github.io/images/facebook_page/invite_fb.JPG" alt="groupfb" >
+
+We also created several posts on the page, trying to raise awareness of our landing page, but also to gain the interest of our visitors.
 
 <img src="/connect.github.io/images/facebook_page/post1_fb.png" alt="1_fb" >
 
