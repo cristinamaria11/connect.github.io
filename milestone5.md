@@ -5,6 +5,28 @@ Through the subsription form posted on our landing page, we managed to get the e
 
 # Bring people on our landing page
 
+## Facebook
+Am tintit urmatoarele grupuri de facebook, urmarind sa gasim oamenii care cauta un loc de munca, ei fiind publicul nostru tinta:
+* Locuri de munca Bucuresti (7.781 membri): postare disponibila <a href="https://www.facebook.com/groups/739964369370261/permalink/2922329634467046/" target="_blank">here</a>.
+* Joburi pentru studenti (8.047 membri): postare disponibila <a href="https://www.facebook.com/groups/joburipentrustudenti/permalink/2163444787296028/" target="_blank">here</a>.
+* Locuri de munca (15.491 membri): postare disponibila 
+* Angajari (11.476 membri): postare disponibila <a href="https://www.facebook.com/groups/1552492258402919/permalink/2406979642954172/" target="_blank">here</a>.
+* Joburi full-time si part-time in Bucuresti si Ilfov (7.373 membri): postare disponibila <a href="https://www.facebook.com/groups/860711997439808/permalink/1401947593316243/" target="_blank">here</a>.
+* Vreau un job in Bucuresti (94.376 membri): postare disponibila  <a href="https://www.facebook.com/groups/vreauunjobinbucuresti/permalink/2531086397128758/" target="_blank">here</a>.
+* Grup anunturi (32.347 membri): <a href="https://www.facebook.com/groups/482486465157181/permalink/3233528840052916/" target="_blank">here</a>.
+
+De asemenea am urmarit si grupurile de studenti din facultate care cauta un job pentru stagiul de practica sau care doresc sa-si schimbe locul de munca curent:
+* ACS (3.213 membri):  <a href="https://www.facebook.com/groups/acsro/permalink/2704188426330983/" target="_blank">here</a>.
+* Admitere Politehnica Bucuresti (11.001 membri): <a href="https://www.facebook.com/groups/756516577733622/permalink/2754357644616162/" target="_blank">here</a>.
+* CTI - UPB 2016-2020 (726 membri): <a href="https://www.facebook.com/groups/1731882180414501/permalink/2596486970620680/" target="_blank">here</a>.
+* Seria C1 2018 - 2019: <a href="https://www.facebook.com/groups/692431747763492/permalink/1006898862983444/" target="_blank">here</a>.
+* C2 2018 - 2019: <a href="https://www.facebook.com/groups/2204335999825475/permalink/2491444001114672/" target="_blank">here</a>.
+* Seria CC: <a href="https://www.facebook.com/groups/566033610248096/permalink/1260044477513669/" target="_blank">here</a>.
+* SRIC 2019-2021: <a href="https://www.facebook.com/groups/1331169247051748/permalink/1445839835584688/" target="_blank">here</a>.
+* eGOV 2019-2021: <a href="https://www.facebook.com/groups/837674206618002/permalink/931565423895546/" target="_blank">here</a>.
+* Master ACS 2019-2021: <a href="https://www.facebook.com/groups/462466777864328/permalink/548258419285163/" target="_blank">here</a>.
+
+
 We created a facebook page to promote our platform, which you can find at <a href="https://www.facebook.com/Connect-101024858032190/?ref=br_rs" target="_blank">this address</a>.
 
 <img src="/connect.github.io/images/facebook_page/connect_page.png" alt="page" >
