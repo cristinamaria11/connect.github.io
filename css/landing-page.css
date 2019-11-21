@@ -4,8 +4,207 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
+html {
+  scroll-behavior: smooth;
+}
+
+/* menu css */
+
+/* page's styles !!!YOU NEED THEM */
+
+.page,
+.page__content {
+  position: relative;
+}
+
+.page {
+  -webkit-perspective: 1500px;
+          perspective: 1500px;
+  text-align: left;
+}
+
+.page__content {
+}
+
+/* navigation styles */
+.nav {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 300px;
+  padding: 30px;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  box-shadow: 4px 0 5px 0 rgba(0, 0, 0, 0.14), 1px 0 10px 0 rgba(0, 0, 0, 0.12), 2px 0 4px -1px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  visibility: hidden;
+  z-index: 500;
+}
+
+/* nav list styles */
+.nav__list {
+  position: relative;
+  padding: 0;
+  margin: 45px 0 0 0;
+  list-style-type: none;
+}
+
+/* nav item styles */
+.nav__item:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+/* nav link styles */
+.nav__link {
+  transition-property: all;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  display: inline-flex;
+  align-items: center;
+  color: #fff;
+  text-decoration: none;
+}
+.nav__link:hover {
+  color: #4caf50;
+}
+
+/* nav link icon styles */
+.nav__link-icon {
+  position: relative;
+  top: -3px;
+  /* !!!use only with material design icons */
+  margin-right: 10px;
+  color: currentColor;
+}
+
+/* close icon styles */
+.nav__close {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  width: 40px;
+  height: 25px;
+  cursor: pointer;
+  /* close icon elements */
+  /* hover effect */
+}
+.nav__close:before, .nav__close:after {
+  transition-property: all;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  display: block;
+  width: 4px;
+  height: 28px;
+  border-radius: 10px;
+  content: '';
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+  background-color: #fff;
+}
+.nav__close:before {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.nav__close:after {
+  position: absolute;
+  top: 0;
+  right: 18px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.nav__close:hover:before, .nav__close:hover:after {
+  background-color: #4caf50;
+}
+
+/* nav open btn styles */
+.nav-open-btn {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  transition-property: all;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  width: 35px;
+  height: 25px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.nav-open-btn.js-hidden {
+  transition-property: all;
+  transition-duration: 0s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.nav-open-btn__bar {
+  width: 100%;
+  height: 5px;
+  background-color: white;
+  border-radius: 20px;
+}
+.nav-open-btn__bar:nth-child(1) {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.nav-open-btn__bar:nth-child(2) {
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+.nav-open-btn__bar:nth-child(3) {
+  position: absolute;
+  top: 20px;
+  left: 0;
+}
+
+/* Demo #1: styles */
+.nav--offcanvas-1 {
+  transition-property: all;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  left: -300px;
+  /* opened styles */
+}
+.nav--offcanvas-1.js-opened {
+  transition-property: left;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  left: 0;
+  opacity: 1;
+  visibility: visible;
+}
+
+.page__content--offcanvas-1 {
+  transition-property: all;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  left: 0;
+  /* opened styles */
+}
+.page__content--offcanvas-1.js-opened {
+  transition-property: all;
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  left: 300px;
+}
+/* /menu css */
+
 body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 h1,
@@ -30,7 +229,7 @@ header.masthead .overlay{
   background-color: white;
   background-image: url('images/landing_page/connect.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;  
+  background-attachment: fixed;
   background-size: cover;
   color:#18173a;
   height: 100%;
@@ -51,6 +250,9 @@ header.masthead h1 {
   }
   header.masthead h1 {
     font-size: 3rem;
+  }
+  .page {
+    height: 575px;
   }
 }
 
@@ -145,3 +347,38 @@ footer.footer {
   color:#159957;
 }
 
+/* top button */
+
+#scroll {
+    position:fixed;
+    right:10px;
+    bottom:10px;
+    cursor:pointer;
+    width:50px;
+    height:50px;
+    background-color:#3498db;
+    text-indent:-9999px;
+    display:none;
+    -webkit-border-radius:60px;
+    -moz-border-radius:60px;
+    border-radius:60px;
+    z-index: 1;
+}
+#scroll span {
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-left:-8px;
+    margin-top:-12px;
+    height:0;
+    width:0;
+    border:8px solid transparent;
+    border-bottom-color:#ffffff;
+}
+#scroll:hover {
+    background-color:#e74c3c;
+    opacity:1;filter:"alpha(opacity=100)";
+    -ms-filter:"alpha(opacity=100)";
+}
+
+/* /top button */

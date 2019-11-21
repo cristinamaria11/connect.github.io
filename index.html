@@ -23,7 +23,11 @@
     <!-- Custom styles for this template -->
     <link href="css/landing-page.css" rel="stylesheet">
 
-    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="scripts/hamburger.js"></script>
+
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151477545-1"></script>
     <script>
@@ -48,8 +52,50 @@
   </head>
 
   <body>
-    <header class="masthead text-center" style="color:#18173a;">
-      <div class="overlay", style="background-image: url('images/landing_page/connect.jpg');"></div>
+    <a href="#" id="scroll" style="display: none;"><span></span></a>
+
+    <header class="masthead text-center" id="top" style="color:#18173a;">
+      <div class="overlay", style="background-image: url('images/landing_page/connect.jpg');">
+        <!--Hamburger menu-->
+        <div class="page">
+          <!--navigation-->
+          <nav class="nav">
+            <!--close button-->
+            <div class="nav__close"></div>
+            <!--navigation list-->
+            <ul class="nav__list">
+              <!--navigation item-->
+              <li class="nav__item">
+                <!--navigation link--><a class="nav__link" href="#about" title="About"><i class="nav__link-icon material-icons">equalizer</i>About</a>
+              </li>
+              <!--navigation item-->
+              <li class="nav__item">
+                <!--navigation link--><a class="nav__link" href="#hiw" title="How it works"><i class="nav__link-icon material-icons">linear_scale</i>How it works</a>
+              </li>
+              <!--navigation item-->
+              <li class="nav__item">
+                <!--navigation link--><a class="nav__link" href="#newsletter" title="Newsletter"><i class="nav__link-icon material-icons">email</i>Newsletter</a>
+              </li>
+              <!--navigation item-->
+              <li class="nav__item">
+                <!--navigation link--><a class="nav__link" href="#team" title="Team"><i class="nav__link-icon material-icons">people</i>Team</a>
+              </li>
+            </ul>
+          </nav>
+          <!--content part-->
+          <div class="page__content">
+            <!--open navigation button-->
+            <div class="nav-open-btn">
+              <div class="nav-open-btn__bar"></div>
+              <div class="nav-open-btn__bar"></div>
+              <div class="nav-open-btn__bar"></div>
+            </div>
+            <div class="content">
+
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="container">
         <div class="row">
           <div class="col-xl-9 mx-auto">
@@ -61,7 +107,7 @@
     </header>
 
     <!-- Icons Grid -->
-    <section class="features-icons bg-light text-center">
+    <section class="features-icons bg-light text-center" id="about">
       <div class="container">
         <div class="row">
           <div class="col-lg-4">
@@ -121,11 +167,11 @@
         </div>
       </div>
     </section>
-    <hr>
+    <hr class="mt-0">
     <!-- Short Workflow -->
     <section class="showcase text-center">
       <div class="container-fluid p-0">
-        <h1 class="mb-5">How It Works</h1>
+        <h1 class="mb-5 mt-5" id="hiw">How It Works</h1>
         <div class="row no-gutters">
           <div class="col-lg-6 order-lg-2 text-white showcase-img2" style="background-image: url('images/landing_page/cv.jpg');"></div>
           <div class="col-lg-6 order-lg-1 my-auto showcase-text">
@@ -154,13 +200,13 @@
             <p class="lead mb-0">Schedule a face-to-face appointment</p>
           </div>
         </div>
-      </div>    
-    
-    <!-- Testimonials -->
+      </div>
+
+    <!-- Newsletter -->
     <section class="testimonials text-center bg-light">
       <div class="container-fluid">
-        
-        <div class="row mb-5">
+
+        <div class="row mb-5" id="newsletter">
           <div class="col-lg-12 h-100 text-center text-lg-left my-auto">
           <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
             <h2 class="mb-5">Register now to our newsletter to receive all the updates!</h2>
@@ -177,10 +223,16 @@
             </div>
           </div>
         </div>
-          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-              <h2 class="mb-2">The Team</h2>
-              <img class="img-fluid rounded-circle mb-5" src="images/landing_page/logo.jpg" alt="">
-          </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="testimonials text-center">
+      <div class="container-fluid">
+        <div class="testimonial-item mx-auto mb-5 mb-lg-0" id="team">
+            <h2 class="mb-2">The Team</h2>
+            <img class="img-fluid rounded-circle mb-5" src="images/landing_page/logo.jpg" alt="">
+        </div>
         <div class="row">
           <div class="col-sm-2">
             <div class="testimonial-item mx-auto mb-5 mb-lg-0">
@@ -244,15 +296,15 @@
                 <input type="button" class="btn btn-info" value="Milestone 2" onclick="window.location.href='milestone2.html'" />
               </li>
               <li class="list-inline-item">&sdot;</li>
-              <li class="list-inline-item"> 
+              <li class="list-inline-item">
                 <input type="button" class="btn btn-info" value="Milestone 3" onclick="window.location.href='milestone3.html'" />
               </li>
               <li class="list-inline-item">&sdot;</li>
-              <li class="list-inline-item"> 
+              <li class="list-inline-item">
                 <input type="button" class="btn btn-info" value="Milestone 4" onclick="window.location.href='milestone4.html'" />
               </li>
               <li class="list-inline-item">&sdot;</li>
-              <li class="list-inline-item"> 
+              <li class="list-inline-item">
                 <input type="button" class="btn btn-info" value="Milestone 5" onclick="window.location.href='milestone5.html'" />
               </li>
             </ul>
