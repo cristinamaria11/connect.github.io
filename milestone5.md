@@ -98,6 +98,7 @@ Pentru analiza modului in care utilizatorii interactioneaza cu landing page-ul n
 <img src="/connect.github.io/images/analytics/user_recordings.png" alt="userrecordingss" >
 
 Fiind inca in proces de dezvoltare, site-ul nostru este unul static, fara actiuni pe care utilizatorii sa le poata realiza, ci oferind informatiile necesare privind ideea de baza a start-ului nostru. Astfel, se poate observa din heatmaps nedumerirea utilizatorilor care incearca sa acceseze site-ul din mai multe locuri nedefinite de catre noi. 
+INFO*: In imaginile urmatoare, desi am actualizat pagina de pornire si am mutat form-ul pentru inregisrtare la newsletter in josul paginii, in heatmap apare in continuare varianta veche.
 <img src="/connect.github.io/images/analytics/click_map.png" alt="clmap" >
 <img src="/connect.github.io/images/analytics/heatmap.png" alt="htmap" >
 
