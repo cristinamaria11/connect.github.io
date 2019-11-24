@@ -58,6 +58,10 @@ We also created several posts on the page, trying to raise awareness of our land
 <img src="/connect.github.io/images/facebook_page/post4_fb.png" alt="4_fb" >
 <a href="https://www.facebook.com/101024858032190/videos/759877427758860/?__tn__=-R" target="_blank">Link here</a>.
 
+<img src="/connect.github.io/images/facebook_page/messages.png" alt="story" >
+<img src="/connect.github.io/images/facebook_page/fb_stats.png" alt="story" >
+<img src="/connect.github.io/images/facebook_page/recente_postari.png" alt="story" >
+
 ## LinkedIn
 Desi Connect este o platforma de angajare si avem drept concurenta LinkedIn, ne-am gandit la posibilitatea de a atrage utilizatorii de acolo sa descopere si platforma noastra prin postarea urmatoare:
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6603758990637838336/" target="_blank">Link here</a>.
