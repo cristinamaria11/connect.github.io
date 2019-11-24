@@ -15,6 +15,13 @@ Am tintit urmatoarele grupuri de facebook, urmarind sa gasim oamenii care cauta 
 * Vreau un job in Bucuresti (94.376 membri): postare disponibila  <a href="https://www.facebook.com/groups/vreauunjobinbucuresti/permalink/2531086397128758/" target="_blank">here</a>.
 * Grup anunturi (32.347 membri): <a href="https://www.facebook.com/groups/482486465157181/permalink/3233528840052916/" target="_blank">here</a>.
 
+<img class="mySlides" src="/connect.github.io/images/facebook_page/anunt1.jpg">
+<img class="mySlides" src="/connect.github.io/images/facebook_page/anunt2.jpg">
+<img class="mySlides" src="/connect.github.io/images/facebook_page/anunt3.jpg">
+<img class="mySlides" src="/connect.github.io/images/facebook_page/anunt4.jpg">
+<img class="mySlides" src="/connect.github.io/images/facebook_page/anunt5.jpg">
+<img class="mySlides" src="/connect.github.io/images/facebook_page/anunt6.jpg">
+
 De asemenea am urmarit si grupurile de studenti din facultate care cauta un job pentru stagiul de practica sau care doresc sa-si schimbe locul de munca curent:
 * ACS (3.213 membri):  <a href="https://www.facebook.com/groups/acsro/permalink/2704188426330983/" target="_blank">here</a>.
 * Admitere Politehnica Bucuresti (11.001 membri): <a href="https://www.facebook.com/groups/756516577733622/permalink/2754357644616162/" target="_blank">here</a>.
