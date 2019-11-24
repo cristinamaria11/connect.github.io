@@ -2,7 +2,7 @@
 
 Through the subsription form posted on our landing page, we managed to get the email addresses of around 20 possible users, who will receive our newsletter and the latest news regarding the devlopment of the application.
 <img src="/connect.github.io/images/analytics/form_contact.png" alt="formcontact" >
-
+<img class="mySlides" src="/connect.github.io/images/facebook_page/newsletter.png">
 # Bring people on our landing page
 
 ## Facebook
