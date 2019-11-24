@@ -73,20 +73,34 @@ In acelasi timp, am trimis si mail-uri celor care s-au abonat la newsletter-ul n
 <img src="/connect.github.io/images/facebook_page/mail_info.jpg" alt="mail_info" >
 
 # Analytics on our landing page
-<img src="/connect.github.io/images/analytics/page_view.png" alt="pgview" >
+Analiza site-ului a fost facuta pe o perioada de 2 saptamani, in intervalul 11.11.2019 - 24.11.2019.
+In graficul urmator se observa numarul de utilizatori pentru fiecare zi, in total avand 205 utilizatori. Cei mai multi s-au raportat in ziua de 12 noiembrie cand a fost creata pagina de facebook si am invitat prietenii pe pagina si in ziua de 20 noiembrie cand am distribuit site-ul pe mai multe grupuri de anunturi de joburi si de angajari pentru oamenii interesati. Postarile sunt disponibile mai sus. 
+<img src="/connect.github.io/images/analytics/total_utilizatori.png" alt="pgviewss" >
+<img src="/connect.github.io/images/analytics/utilizatori_activi.png" alt="activiii" >
+Dupa cele 2 saptamani, putem spune ca numarul de utilizatori creste usor, insa trebuie avuta in vedere o activitate constanta pe paginile de socializare dupa cum se poate observa in graficele urmatoare, cand se inregistreaza cresteri majore in momentul distribuirii postarilor.
+<img src="/connect.github.io/images/analytics/utilizatori_activi_pe_perioade.png" alt="perioade_utili" >
+<img src="/connect.github.io/images/analytics/afisari_pagina.png" alt="afisari" >
 
-### Number of visitors
-<img src="/connect.github.io/images/analytics/number_users.png" alt="nru" >
+Google analytics ne ofera posibilitatea sa observam si de unde vin utilizatorii, atat provenienta geografica a acestora, cat si platformele de unde au accesat landing page-ul.
+<img src="/connect.github.io/images/analytics/tara_provenienta.png" alt="tara" >
+<img src="/connect.github.io/images/analytics/sursa_trafic.png" alt="sursa" >
+<img src="/connect.github.io/images/analytics/social_trafic.png" alt="social" >
+
+Dupa cum se poate observa platforma pe care am reusit sa distribuim cel mai bine informatia este Facebook, fiind grupuri deja create pentru oamenii interesati sa se angajeze sau cu studenti care vor sa-si inceapa cariera. Am incercat si pe Instagram si Linkedin, insa nu am reusit sa adunam un numar mare de oameni.
 
 ### Conversion Rate
-<img src="/connect.github.io/images/analytics/conversion_rate.png" alt="conv" >
+<img src="/connect.github.io/images/analytics/general.png" alt="conversionrate" >
 
 ### Heat-maps/Click-maps
-<img src="/connect.github.io/images/analytics/all_heatmaps.png" alt="urec" >
+Pentru analiza modului in care utilizatorii interactioneaza cu landing page-ul nostru, am urmarit activitatea acestora pe Hotjar. Initial, am creat un heatmap in momentul inregistrarii site-ului pe platforma, insa ne-am ocupat ulterior de actualizarea site-ului pe partea de design si ne-am gandit sa deschidem un nou heatmap. Numarul de inregistrari al utilizatorilor a ajuns la 224, spre deosebire de saptamana trecuta cand am inregistrat doar 87.
+
+<img src="/connect.github.io/images/analytics/all_heatmaps.png" alt="alll" >
+<img src="/connect.github.io/images/analytics/user_recordings.png" alt="userrecordingss" >
+
+Fiind inca in proces de dezvoltare, site-ul nostru este unul static, fara actiuni pe care utilizatorii sa le poata realiza, ci oferind informatiile necesare privind ideea de baza a start-ului nostru. Astfel, se poate observa din heatmaps nedumerirea utilizatorilor care incearca sa acceseze site-ul din mai multe locuri nedefinite de catre noi. 
 <img src="/connect.github.io/images/analytics/click_map.png" alt="clmap" >
 <img src="/connect.github.io/images/analytics/heatmap.png" alt="htmap" >
 
-### User recording
-<img src="/connect.github.io/images/analytics/user_recording.png" alt="urec" >
+
 
 <input type="button" class="button" value="<< Milestone 4" onclick="window.location.href='milestone4.html'" />
