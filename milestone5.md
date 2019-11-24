@@ -68,6 +68,10 @@ Am luat in considerare sa actionam si pe Instagram, avand in vedere ca publicul 
 <img src="/connect.github.io/images/facebook_page/cont_insta.PNG" alt="cont_insta" >
 <img src="/connect.github.io/images/facebook_page/story_insta.PNG" alt="story" >
 
+## Mail
+In acelasi timp, am trimis si mail-uri celor care s-au abonat la newsletter-ul nostru:
+<img src="/connect.github.io/images/facebook_page/mail_info.jpg" alt="mail_info" >
+
 # Analytics on our landing page
 <img src="/connect.github.io/images/analytics/page_view.png" alt="pgview" >
 
