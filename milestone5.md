@@ -9,7 +9,6 @@ Through the subsription form posted on our landing page, we managed to get the e
 Am tintit urmatoarele grupuri de facebook, urmarind sa gasim oamenii care cauta un loc de munca, ei fiind publicul nostru tinta:
 * Locuri de munca Bucuresti (7.781 membri): postare disponibila <a href="https://www.facebook.com/groups/739964369370261/permalink/2922329634467046/" target="_blank">here</a>.
 * Joburi pentru studenti (8.047 membri): postare disponibila <a href="https://www.facebook.com/groups/joburipentrustudenti/permalink/2163444787296028/" target="_blank">here</a>.
-* Locuri de munca (15.491 membri): postare disponibila 
 * Angajari (11.476 membri): postare disponibila <a href="https://www.facebook.com/groups/1552492258402919/permalink/2406979642954172/" target="_blank">here</a>.
 * Joburi full-time si part-time in Bucuresti si Ilfov (7.373 membri): postare disponibila <a href="https://www.facebook.com/groups/860711997439808/permalink/1401947593316243/" target="_blank">here</a>.
 * Vreau un job in Bucuresti (94.376 membri): postare disponibila  <a href="https://www.facebook.com/groups/vreauunjobinbucuresti/permalink/2531086397128758/" target="_blank">here</a>.
