@@ -55,9 +55,12 @@ We also created several posts on the page, trying to raise awareness of our land
 ## LinkedIn
 Desi Connect este o platforma de angajare si avem drept concurenta LinkedIn, ne-am gandit la posibilitatea de a atrage utilizatorii de acolo sa descopere si platforma noastra prin postarea urmatoare:
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6603758990637838336/" target="_blank">Link here</a>.
+<img src="/connect.github.io/images/facebook_page/linkedin.png" alt="linkedin" >
 
 ## Instagram 
-Am luat in considerare sa actionam si pe Instagram, avand in vedere ca publicul tanar petrece foarte mult timp pe aceasta platforma, insa am ajuns la concluzia ca este dificil sa strangem oameni care sa ne viziteze site-ul.
+Am luat in considerare sa actionam si pe Instagram, avand in vedere ca publicul tanar petrece foarte mult timp pe aceasta platforma, insa am ajuns la concluzia ca este dificil sa strangem oameni care sa ne viziteze site-ul. <a href="https://www.instagram.com/connect.recruitment/?hl=ro" target="_blank">Link here</a>.
+<img src="/connect.github.io/images/facebook_page/cont_insta.PNG" alt="cont_insta" >
+<img src="/connect.github.io/images/facebook_page/story_insta.PNG" alt="story" >
 
 # Analytics on our landing page
 <img src="/connect.github.io/images/analytics/page_view.png" alt="pgview" >
