@@ -114,4 +114,9 @@ INFO*: In imaginile urmatoare, am actualizat pagina de pornire si am mutat form-
 <img src="/connect.github.io/images/facebook_page/click_maps.png" alt="clickmap" >
 <img src="/connect.github.io/images/facebook_page/heatmaps.png" alt="htmapss" >
 
+<div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 4" onclick="window.location.href='milestone4.html'" />
+</div>
+<div style="display:inline; float:right">
+<input type="button" class="button" value="Milestone 6 >>" onclick="window.location.href='milestone6.html'" />
+</div>
