@@ -12,7 +12,7 @@ Some of our competitors, determined by our first market research would be:
 <img src="/connect.github.io/images/market/competition-chart.png">
 
 
-<img src="/connect.github.io/images/market/linkedin-logo.jpg" alt="Linkedin" width="150" height="50">
+<img src="/connect.github.io/images/market/linkedin-logo.png" alt="Linkedin" width="150" height="50">
 
 As well as individual professionals, LinkedIn allows businesses to create profiles, and list current vacancies. Members can apply for these positions directly through LinkedIn’s interface. LinkedIn also provides a publishing platform, designed to facilitate thought leadership in the business world.  
 
