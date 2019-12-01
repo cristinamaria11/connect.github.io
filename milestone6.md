@@ -27,7 +27,7 @@ The site aggregates job listings from thousands of websites, including job board
 Indeed.com earns a profit using a pay-per-click model. That means employers posting jobs pay a small fee each time a job seeker views a posting. Most clicks on Indeed.com cost between $0.25 - $1.50. The site also earns revenue through traditional website advertising.
 
 
-<img src="/connect.github.io/images/market/careerbuilder.png"  alt="CareerBuilder" width="150" height="80">
+<img src="/connect.github.io/images/market/careerbuilder.png"  alt="CareerBuilder" width="180" height="90">
 
 For over 20 years, CareerBuilder has been at the forefront of innovation when it comes to using data and technology to evolve the human capital management space, with solutions that help employers find, hire and manage great people.  
 
