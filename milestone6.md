@@ -1,4 +1,10 @@
-# Market Research
+# Target market
+Any good business has a target market well defined. Saying that a business targets anyone who is interested is too general and brings no benefits. 
+Usually, the target market can be identified by looking at the one other similar products are targeting, but this is not always the best idea as they may overlook a niche market.  
+Our product is targeting 2 big markets, those being, on the one side, any company that looks to improve their hiring process and is opened to use a new method to do it and, on the other side, the people that are looking for changing their job.  
+Firstly, our main interest regarding companies are the bigger ones as they would use an app like ours more intense and, because they get into contact with a lot more people, we could get known faster.  
+Secondly, due to the fact that people that are younger tend to be more interested in trying new things, we mainly target students or graduates, but this does not mean that we have no interest in older people using our application.
+
 
 # Competitors in out targeted market
 
