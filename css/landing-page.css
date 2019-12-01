@@ -252,6 +252,7 @@ header.masthead .overlay{
 
 header.masthead h1 {
   font-size: 2rem;
+  margin-bottom: 1rem !important;
 }
 
 @media (min-width: 768px) {
