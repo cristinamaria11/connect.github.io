@@ -20,7 +20,7 @@ LinkedIn reports over 660 million users spread over 200 countries, as of late No
  
 <img src="/connect.github.io/images/market/indeed-logo.png" alt="Indeed" width="150" height="80">
 
-Indeed is the number 1 job site in the world1 with over 250 million unique visitors2 every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities.  
+Indeed is the number 1 job site in the world1 with over 250 million unique visitors2 every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, they connect millions of people to new opportunities.  
 
 The site aggregates job listings from thousands of websites, including job boards, staffing firms, associations, and company career pages. They generate revenue by selling premium job posting and resume features to employers and companies hiring. In 2011, Indeed began allowing job seekers to apply directly to jobs on Indeed's site and offering resume posting and storage.  
 
