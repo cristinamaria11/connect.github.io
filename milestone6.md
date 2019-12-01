@@ -8,7 +8,7 @@ Some of our competitors, determined by our first market research would be:
 
 ## Linkedin
 
-<img src="/connect.github.io/images/market/linkedin.png">
+<img width="300" height="200" src="/connect.github.io/images/market/linkedin.png">
 
 As well as individual professionals, LinkedIn allows businesses to create profiles, and list current vacancies. Members can apply for these positions directly through LinkedIn’s interface. LinkedIn also provides a publishing platform, designed to facilitate thought leadership in the business world.  
 
@@ -16,7 +16,7 @@ LinkedIn reports over 660 million users spread over 200 countries, as of late No
  
 ## Indeed
 
-<img src="/connect.github.io/images/market/indeed.png">
+<img width="300" height="200" src="/connect.github.io/images/market/indeed.png">
 
 Indeed is the #1 job site in the world1 with over 250 million unique visitors2 every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities.  
 
@@ -27,7 +27,7 @@ Indeed.com earns a profit using a pay-per-click model. That means employers post
 
 ## Career Builder
 
-<img src="/connect.github.io/images/market/careerbuilder.png">
+<img width="300" height="200" src="/connect.github.io/images/market/careerbuilder.png">
 
 For over 20 years, CareerBuilder has been at the forefront of innovation when it comes to using data and technology to evolve the human capital management space, with solutions that help employers find, hire and manage great people.  
 
