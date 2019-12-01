@@ -18,7 +18,7 @@ As well as individual professionals, LinkedIn allows businesses to create profil
 
 LinkedIn reports over 660 million users spread over 200 countries, as of late November 2019. Between them, they represent 30 million companies. The active user base of LinkedIn is debated. Using SimilarWeb data, We Are Social and Hootsuite in October 2019 estimate LinkedIn MAUs at 310 million (47% of members). This is relatively consistent with Boston-based Apptopia’s 2017 estimate of an active LinkedIn user base of around 250 million in 2017, representing 50% of its 500 million members at the time.
  
-<img src="/connect.github.io/images/market/indeed-logo.jpg" alt="Indeed" width="150" height="80">
+<img src="/connect.github.io/images/market/indeed-logo.png" alt="Indeed" width="150" height="80">
 
 Indeed is the number 1 job site in the world1 with over 250 million unique visitors2 every month. Indeed strives to put job seekers first, giving them free access to search for jobs, post resumes, and research companies. Every day, we connect millions of people to new opportunities.  
 
