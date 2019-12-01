@@ -122,6 +122,12 @@ html {
   background-color: #4caf50;
 }
 
+@media (max-width: 768px) {
+  .nav-open-btn {
+    /* left: 30px; */
+  }
+}
+
 /* nav open btn styles */
 .nav-open-btn {
   position: absolute;
@@ -231,7 +237,7 @@ header.masthead .overlay{
   background-image: url('images/landing_page/connect.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
   color:#18173a;
   height: 100%;
   width: 100%;
@@ -264,15 +270,37 @@ header.masthead h1 {
 .showcase .showcase-img {
   min-height: 30rem;
   background-size: cover;
+  /* background-size: contain;
+  background-repeat: no-repeat; */
 }
 .showcase .showcase-img2 {
   min-height: 50rem;
   background-size: cover;
+  /* background-size: contain;
+  background-repeat: no-repeat; */
 }
+
+
 
 @media (min-width: 768px) {
   .showcase .showcase-text {
     padding: 7rem;
+  }
+}
+
+@media (max-width: 537px) {
+  .showcase .showcase-text {
+    /* padding: 7rem; */
+  }
+  .showcase .showcase-img {
+    min-height: 50vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .showcase .showcase-img2 {
+    min-height: 70vh;
+    background-size: contain;
+    background-repeat: no-repeat;
   }
 }
 
