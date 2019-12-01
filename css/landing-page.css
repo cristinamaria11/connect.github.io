@@ -26,6 +26,10 @@ html {
 .page__content {
 }
 
+.btn {
+  margin-bottom: 10px;
+}
+
 /* navigation styles */
 .nav {
   position: fixed;
