@@ -39,6 +39,7 @@ html {
   opacity: 0;
   visibility: hidden;
   z-index: 500;
+  height: fit-content;
 }
 
 /* nav list styles */
