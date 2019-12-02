@@ -302,33 +302,33 @@ In our case, the main source of income will be from Recruiter profiles and Premi
   </tr>
   <tr>
     <td>1</td>
-    <td>2500</td>
-    <td>12000</td>
-    <td>14500</td>
+    <td>2500 EUR</td>
+    <td>12000 EUR</td>
+    <td>14500 EUR</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>3500</td>
-    <td>62000</td>
-    <td>65500</td>
+    <td>3500 EUR</td>
+    <td>62000 EUR</td>
+    <td>65500 EUR</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>5000</td>
-    <td>160000</td>
-    <td>165000</td>
+    <td>5000 EUR</td>
+    <td>160000 EUR</td>
+    <td>165000 EUR</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>7500</td>
-    <td>320000</td>
-    <td>327500</td>
+    <td>7500 EUR</td>
+    <td>320000 EUR</td>
+    <td>327500 EUR</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>12500</td>
-    <td>520000</td>
-    <td>532500</td>
+    <td>12500 EUR</td>
+    <td>520000 EUR</td>
+    <td>532500 EUR</td>
   </tr>
 </table>
 
