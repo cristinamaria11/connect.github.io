@@ -293,8 +293,46 @@ Being our biggest competitor, we analyzed LinkedIn's revenues. The Recruiter Cor
 
 In our case, the main source of income will be from Recruiter profiles and Premium subscriptions, because we can't generate such big pageviews for receiving enough income from ads. Therefore, we will aproximate a revenue of **50 EUR per month for the Recruiter Corporate package**. Considering a number of 50 companies after first year, that means **2500 EUR monthly**. For premium members, we will set a **2 EUR to 5 EUR per month subscription**. If we assume that 1% of the users will buy that subscription, this mean **12000 EUR monthly** after first year (for 0.6 million users).
 
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Recruiter package</th>
+    <th>Subscription</th>
+    <th>Total</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2500</td>
+    <td>12000</td>
+    <td>14500</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>3500</td>
+    <td>62000</td>
+    <td>65500</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>5000</td>
+    <td>160000</td>
+    <td>165000</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>7500</td>
+    <td>320000</td>
+    <td>327500</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>12500</td>
+    <td>520000</td>
+    <td>532500</td>
+  </tr>
+</table>
 
-
+<br>
 
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
