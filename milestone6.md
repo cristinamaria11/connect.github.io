@@ -38,7 +38,7 @@ For employers, CareerBuilder is a global, end-to-end human capital solutions com
 
 
 # Potential market share in first 5 years
-To determinate the market share of the competition we use as reference the number of active users in a month.
+To determinate the market share of the competition we use as reference the number of active users in a month. The total number of users is indicative, as some of them can use multiple platforms in parallel.
 
 These are the statistics for the biggest competitors:
 
