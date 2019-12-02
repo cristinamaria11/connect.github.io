@@ -38,6 +38,7 @@ For employers, CareerBuilder is a global, end-to-end human capital solutions com
 
 
 # Potential market share in first 5 years
+
 To determinate the market share of the competition we use as reference the number of active users in a month. The total number of users is indicative, as some of them can use multiple platforms in parallel.
 
 These are the statistics for the biggest competitors:
@@ -164,8 +165,120 @@ In the first year, we are looking forward to get 0.2% of the current market shar
     <td>623.1</td>
     <td style="font-weight: bold">100%</td>
   </tr>
+  
+  <tr>
+    <td rowspan="7">Year 3</td>
+    <td>Connect</td>
+    <td>16</td>
+    <td>2.5%</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>269</td>
+    <td>42.3%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>62</td>
+    <td>9.7%</td>
+  </tr>
+  <tr>
+    <td>Indeed</td>
+    <td>259</td>
+    <td>40.7%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>27.5</td>
+    <td>4.3%</td>
+  </tr>
+  <tr>
+    <td>Dice.com</td>
+    <td>2.8</td>
+    <td>0.4%</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">Total</td>
+    <td>636.3</td>
+    <td style="font-weight: bold">100%</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="7">Year 4</td>
+    <td>Connect</td>
+    <td>30</td>
+    <td>4.6%</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>269</td>
+    <td>41.4%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>62</td>
+    <td>9.5%</td>
+  </tr>
+  <tr>
+    <td>Indeed</td>
+    <td>259</td>
+    <td>39.8%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>27.5</td>
+    <td>4.2%</td>
+  </tr>
+  <tr>
+    <td>Dice.com</td>
+    <td>2.8</td>
+    <td>0.4%</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">Total</td>
+    <td>650.3</td>
+    <td style="font-weight: bold">100%</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="7">Year 5</td>
+    <td>Connect</td>
+    <td>135</td>
+    <td>20.4%</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>235</td>
+    <td>35.5%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>45</td>
+    <td>6.8%</td>
+  </tr>
+  <tr>
+    <td>Indeed</td>
+    <td>225</td>
+    <td>24%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>20</td>
+    <td>3.0%</td>
+  </tr>
+  <tr>
+    <td>Dice.com</td>
+    <td>1.5</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">Total</td>
+    <td>661.5</td>
+    <td style="font-weight: bold">100%</td>
+  </tr>
 </table>
 
+</br>
 
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
