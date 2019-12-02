@@ -88,35 +88,80 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   <tr>
     <th>Year</th>
     <th>Solution</th>
+    <th>Unique Users(millions)</th>
     <th>Market Share</th>
   </tr>
   <tr>
     <td rowspan="7">Year 1</td>
     <td>Connect</td>
+    <td>1.2</td>
     <td>0.2%</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
+    <td>265</td>
     <td>43.3%</td>
   </tr>
   <tr>
     <td>Glassdoor</td>
+    <td>62</td>
     <td>10.1%</td>
   </tr>
   <tr>
-   <td>Indeed</td>
+    <td>Indeed</td>
+    <td>255</td>
     <td>41.7%</td>
   </tr>
   <tr>
     <td>Career Builder</td>
+    <td>26</td>
     <td>4.2%</td>
   </tr>
   <tr>
     <td>Dice.com</td>
+    <td>2.6</td>
     <td>0.4%</td>
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
+    <td>611.8</td>
+    <td style="font-weight: bold">100%</td>
+  </tr>
+ 
+ <tr>
+    <td rowspan="7">Year 2</td>
+    <td>Connect</td>
+    <td>6.3</td>
+    <td>1.0%</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>268</td>
+    <td>43%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>61</td>
+    <td>9.8%</td>
+  </tr>
+  <tr>
+    <td>Indeed</td>
+    <td>258</td>
+    <td>41.4%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>27</td>
+    <td>4.3%</td>
+  </tr>
+  <tr>
+    <td>Dice.com</td>
+    <td>2.8</td>
+    <td>0.4%</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">Total</td>
+    <td>623.1</td>
     <td style="font-weight: bold">100%</td>
   </tr>
 </table>
