@@ -37,6 +37,49 @@ For over 20 years, CareerBuilder has been at the forefront of innovation when it
 For employers, CareerBuilder is a global, end-to-end human capital solutions company focused on helping companies find, hire and manage great talent. Combining advertising, software and services, CareerBuilder leads the industry in recruiting solutions, employment screening and human capital management.
 
 
+# Potential market share in first 5 years
+To determinate the market share of the competition we use as reference the number of active users in a month.
+
+These are the statistics for the biggest competitors:
+
+<table>
+  <tr>
+    <th>Solution</th>
+    <th>Unique users(millions)</th>
+    <th>Market Share</th>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>260</td>
+    <td>43.5%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>60</td>
+    <td>10%</td>
+  </tr>
+  <tr>
+    <td>Indeed</td>
+    <td>250</td>
+    <td>41.8%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>25</td>
+    <td>4.2%</td>
+  </tr>
+  <tr>
+    <td>Dice.com</td>
+    <td>2.4</td>
+    <td>0.4%</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">Total</td>
+    <td style="font-weight: bold">597.4</td>
+    <td style="font-weight: bold">100%</td>
+  </tr>
+</table>
+
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
 </div>
