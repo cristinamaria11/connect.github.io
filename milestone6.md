@@ -83,9 +83,9 @@ These are the statistics for the biggest competitors:
 
 <br>
 
-We estimate that the total number of active users will increase by 15 million every year, according to user growth of the main competitor, Linkedin.
+We estimate that the total number of active users will increase by approximately 10 million every year, according to user growth of the main competitor, Linkedin.
 
-In the first year, we are looking forward to get 0.2% of the current market share. The next year, through good feedback and numerous ads, we aim to get on our platform another 1% of active users. Following years, we estimate a exponential growth.
+In the first year, we are looking forward to get 0.1% of the current market share. The next year, through good feedback and numerous ads, we aim to get on our platform another 0.5% of active users. Following years, we estimate a exponential growth.
 
 <table>
   <tr>
@@ -97,13 +97,13 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   <tr>
     <td rowspan="7">Year 1</td>
     <td>Connect</td>
-    <td>1.2</td>
-    <td>0.2%</td>
+    <td>0.6</td>
+    <td>0.1%</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
     <td>265</td>
-    <td>43.3%</td>
+    <td>43.4%</td>
   </tr>
   <tr>
     <td>Glassdoor</td>
@@ -118,7 +118,7 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   <tr>
     <td>Career Builder</td>
     <td>26</td>
-    <td>4.2%</td>
+    <td>4.3%</td>
   </tr>
   <tr>
     <td>Dice.com</td>
@@ -127,20 +127,20 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td style="font-weight: bold">611.8</td>
+    <td style="font-weight: bold">611.2</td>
     <td style="font-weight: bold">100%</td>
   </tr>
  
  <tr>
     <td rowspan="7">Year 2</td>
     <td>Connect</td>
-    <td>6.3</td>
-    <td>1.0%</td>
+    <td>3.1</td>
+    <td>0.5%</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
     <td>268</td>
-    <td>43%</td>
+    <td>43.2%</td>
   </tr>
   <tr>
     <td>Glassdoor</td>
@@ -150,12 +150,49 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   <tr>
     <td>Indeed</td>
     <td>258</td>
-    <td>41.4%</td>
+    <td>41.6%</td>
   </tr>
   <tr>
     <td>Career Builder</td>
     <td>27</td>
-    <td>4.3%</td>
+    <td>4.4%</td>
+  </tr>
+  <tr>
+    <td>Dice.com</td>
+    <td>2.8</td>
+    <td>0.5%</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">Total</td>
+    <td style="font-weight: bold">619.9</td>
+    <td style="font-weight: bold">100%</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="7">Year 3</td>
+    <td>Connect</td>
+    <td>8</td>
+    <td>1.3%</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>269</td>
+    <td>42.8%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>62</td>
+    <td>9.9%</td>
+  </tr>
+  <tr>
+    <td>Indeed</td>
+    <td>259</td>
+    <td>41.2%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>27.5</td>
+    <td>4.4%</td>
   </tr>
   <tr>
     <td>Dice.com</td>
@@ -164,12 +201,12 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td style="font-weight: bold">623.1</td>
+    <td style="font-weight: bold">628.3</td>
     <td style="font-weight: bold">100%</td>
   </tr>
   
   <tr>
-    <td rowspan="7">Year 3</td>
+    <td rowspan="7">Year 4</td>
     <td>Connect</td>
     <td>16</td>
     <td>2.5%</td>
@@ -206,76 +243,39 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   
   <tr>
-    <td rowspan="7">Year 4</td>
+    <td rowspan="7">Year 5</td>
     <td>Connect</td>
-    <td>30</td>
-    <td>4.6%</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>269</td>
-    <td>41.4%</td>
-  </tr>
-  <tr>
-    <td>Glassdoor</td>
-    <td>62</td>
-    <td>9.5%</td>
-  </tr>
-  <tr>
-    <td>Indeed</td>
-    <td>259</td>
-    <td>39.8%</td>
-  </tr>
-  <tr>
-    <td>Career Builder</td>
-    <td>27.5</td>
+    <td>26</td>
     <td>4.2%</td>
   </tr>
   <tr>
+    <td>LinkedIn</td>
+    <td>260</td>
+    <td>41.7%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>60</td>
+    <td>9.6%</td>
+  </tr>
+  <tr>
+    <td>Indeed</td>
+    <td>250</td>
+    <td>40.1%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>25</td>
+    <td>4.0%</td>
+  </tr>
+  <tr>
     <td>Dice.com</td>
-    <td>2.8</td>
+    <td>2.5</td>
     <td>0.4%</td>
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td style="font-weight: bold">650.3</td>
-    <td style="font-weight: bold">100%</td>
-  </tr>
-  
-  <tr>
-    <td rowspan="7">Year 5</td>
-    <td>Connect</td>
-    <td>135</td>
-    <td>20.4%</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>235</td>
-    <td>35.5%</td>
-  </tr>
-  <tr>
-    <td>Glassdoor</td>
-    <td>45</td>
-    <td>6.8%</td>
-  </tr>
-  <tr>
-    <td>Indeed</td>
-    <td>225</td>
-    <td>24%</td>
-  </tr>
-  <tr>
-    <td>Career Builder</td>
-    <td>20</td>
-    <td>3.0%</td>
-  </tr>
-  <tr>
-    <td>Dice.com</td>
-    <td>1.5</td>
-    <td>0.2%</td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold">Total</td>
-    <td style="font-weight: bold">661.5</td>
+    <td style="font-weight: bold">623.5</td>
     <td style="font-weight: bold">100%</td>
   </tr>
 </table>
@@ -291,7 +291,10 @@ Recruitment platform have mainly 3 sources of revenue:
 
 Being our biggest competitor, we analyzed LinkedIn's revenues. The Recruiter Corporate package costs just over **$8,600 annually** (if you pay upfront; it’s about **$10,800 each year** if you pay month-to-month). LinkedIn makes about **$90 million each quarter**, or about 23% of total revenue, from showing ads to its users. These ads appear on most pages on the site, and include both IAB standard ads (such as a 300×250 rectangle) as well as custom text ads. LinkedIn offers its members four tiers of membership on the site, including a free option. The other three range from about **$20 / month up to $75 / month**, depending on the features desired.
 
-In our case, the main source of income will be from Recruiter profiles and Premium subscriptions, because we can't generate such big pageviews for receiving enough income from ads. Therefore, we will aproximate a revenue of **50 EUR per month for the Recruiter Corporate package**. Considering a number of 50 companies after first year, that means **2500 EUR monthly**. For premium members, we will set a **2 EUR to 5 EUR per month subscription**. If we assume that 1% of the users will buy that subscription, this mean **24000 EUR monthly** after first year (for 1.2 million users).
+In our case, the main source of income will be from Recruiter profiles and Premium subscriptions, because we can't generate such big pageviews for receiving enough income from ads. Therefore, we will aproximate a revenue of **50 EUR per month for the Recruiter Corporate package**. Considering a number of 50 companies after first year, that means **2500 EUR monthly**. For premium members, we will set a **2 EUR to 5 EUR per month subscription**. If we assume that 1% of the users will buy that subscription, this mean **12000 EUR monthly** after first year (for 0.6 million users).
+
+
+
 
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
