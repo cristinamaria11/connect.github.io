@@ -80,6 +80,48 @@ These are the statistics for the biggest competitors:
   </tr>
 </table>
 
+We estimate that the total number of active users will increase by 15 million every year, according to user growth of the main competitor, Linkedin.
+
+In the first year, we are looking forward to get 0.2% of the current market share. The next year, through good feedback and numerous ads, we aim to get on our platform another 1% of active users. Following years, we estimate a exponential growth.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Solution</th>
+    <th>Market Share</th>
+  </tr>
+  <tr>
+    <td rowspan="7">Year 1</td>
+    <td>Connect</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>43.3%</td>
+  </tr>
+  <tr>
+    <td>Glassdoor</td>
+    <td>10.1%</td>
+  </tr>
+  <tr>
+   <td>Indeed</td>
+    <td>41.7%</td>
+  </tr>
+  <tr>
+    <td>Career Builder</td>
+    <td>4.2%</td>
+  </tr>
+  <tr>
+    <td>Dice.com</td>
+    <td>0.4%</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">Total</td>
+    <td style="font-weight: bold">100%</td>
+  </tr>
+</table>
+
+
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
 </div>
