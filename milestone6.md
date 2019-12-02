@@ -291,7 +291,7 @@ Recruitment platform have mainly 3 sources of revenue:
 
 Being our biggest competitor, we analyzed LinkedIn's revenues. The Recruiter Corporate package costs just over $8,600 annually (if you pay upfront; it’s about $10,800 each year if you pay month-to-month). LinkedIn makes about $90 million each quarter, or about 23% of total revenue, from showing ads to its users. These ads appear on most pages on the site, and include both IAB standard ads (such as a 300×250 rectangle) as well as custom text ads. LinkedIn offers its members four tiers of membership on the site, including a free option. The other three range from about $20 / month up to $75 / month, depending on the features desired.
 
-
+In our case, the main source of income will be from Recruiter profiles and Premium subscriptions, because we can't generate such big pageviews for receiving enough income from ads. Therefore, we will aproximate a revenue of 50 EUR per month for the Recruiter Corporate package. Considering a number of 50 companies after first year, that means 2500 EUR monthly. For premium members, we will set a 2 EUR to 5 EUR per month subscription. If we assume that 1% of the users will buy that subscription, this mean 24000 EUR monthly after first year (for 1.2 million users).
 
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
