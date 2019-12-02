@@ -81,6 +81,8 @@ These are the statistics for the biggest competitors:
   </tr>
 </table>
 
+<br>
+
 We estimate that the total number of active users will increase by 15 million every year, according to user growth of the main competitor, Linkedin.
 
 In the first year, we are looking forward to get 0.2% of the current market share. The next year, through good feedback and numerous ads, we aim to get on our platform another 1% of active users. Following years, we estimate a exponential growth.
@@ -125,7 +127,7 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td>611.8</td>
+    <td style="font-weight: bold">611.8</td>
     <td style="font-weight: bold">100%</td>
   </tr>
  
@@ -162,7 +164,7 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td>623.1</td>
+    <td style="font-weight: bold">623.1</td>
     <td style="font-weight: bold">100%</td>
   </tr>
   
@@ -199,7 +201,7 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td>636.3</td>
+    <td style="font-weight: bold">636.3</td>
     <td style="font-weight: bold">100%</td>
   </tr>
   
@@ -236,7 +238,7 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td>650.3</td>
+    <td style="font-weight: bold">650.3</td>
     <td style="font-weight: bold">100%</td>
   </tr>
   
@@ -273,12 +275,12 @@ In the first year, we are looking forward to get 0.2% of the current market shar
   </tr>
   <tr>
     <td style="font-weight: bold">Total</td>
-    <td>661.5</td>
+    <td style="font-weight: bold">661.5</td>
     <td style="font-weight: bold">100%</td>
   </tr>
 </table>
 
-</br>
+<br>
 
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
