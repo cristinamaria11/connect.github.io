@@ -19,13 +19,13 @@ After logging in to the application, a user has to choose whether he/she is look
 
 As an employee, the way you can create your account is shown below. Basically, you only need to complete your personal information and upload your CV or link your Linkedin account.
 <div id="soloImg">
-  <img src="/connect.github.io/images/MVP/create-employee-account.png" alt="chooseusertype" height="400" width="500">
+  <img src="/connect.github.io/images/MVP/create-employee-account.png" alt="employee-account" height="400" width="500">
 </div>
 
 
 As a recruiter, you can also create your account and link to it multiple job offers.
 <div id="soloImg">
-  <img src="/connect.github.io/images/MVP/create-company-account.png" alt="chooseusertype" height="400" width=500">
+  <img src="/connect.github.io/images/MVP/create-company-account.png" alt="company-account" height="400" width=500">
 </div>
 
 
