@@ -12,7 +12,7 @@ The login page is basic, it requires you to complete the username and passwords,
 After logging in to the application, a user has to choose whether he/she is looking for a job or for a possible employee. This is shown in the following screenshot. The app being meant for 2 different types of users, without this implementation, the app wouldn't make too much sense.
 
 <div id="soloImg">
-  <img src="/connect.github.io/images/MVP/choose-profile-type.png" alt="chooseusertype"height="400" width="230">
+  <img src="/connect.github.io/images/MVP/choose-profile-type.png" alt="chooseusertype" height="400" width="230">
 </div>
 
 
