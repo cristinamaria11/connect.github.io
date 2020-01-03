@@ -338,4 +338,5 @@ In our case, the main source of income will be from Recruiter profiles and Premi
 <input type="button" class="button" value="<< Milestone 5" onclick="window.location.href='milestone5.html'" />
 </div>
 <div style="display:inline; float:right">
+<input type="button" class="button" value="Milestone 7 >>" onclick="window.location.href='milestone7.html'" />
 </div>
