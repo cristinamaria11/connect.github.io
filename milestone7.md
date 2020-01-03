@@ -4,7 +4,7 @@ We decided to implement some basic features of the application such as the login
 The login page is basic, it requires you to complete the username and passwords, just like any other similar page. It also displays some error messages, depending on the case. The motivation behind implementing this functionality is obvious, you can't say an app is any good without having any kind of security, no matter how basic this is at first.
 
 <div id='soloImg'>
-    <img src="/connect.github.io/images/MVP/login.png" alt="Loginexample" >
+    <img src="/connect.github.io/images/MVP/login.png" alt="Loginexample" height="560" width="320">
 <div>
 
 
