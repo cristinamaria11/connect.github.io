@@ -25,7 +25,7 @@ As an employee, the way you can create your account is shown below. Basically, y
 
 As a recruiter, you can also create your account and link to it multiple job offers.
 <div id="soloImg">
-  <img src="/connect.github.io/images/MVP/create-company-account.png" alt="company-account" height="400" width=500">
+  <img src="/connect.github.io/images/MVP/create-company-account.png" alt="company-account" height="400" width="500">
 </div>
 
 
