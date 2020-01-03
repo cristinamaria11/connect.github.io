@@ -11,20 +11,22 @@ The login page is basic, it requires you to complete the username and passwords,
 # Creating a profile
 
 After logging in to the application, a user has to choose whether he/she is looking for a job or for a possible employee. This is shown in the following screenshot. The app being meant for 2 different types of users, without this implementation, the app wouldn't make too much sense.
-
 <div id="soloImg">
   <img src="/connect.github.io/images/MVP/choose-profile-type.png" alt="chooseusertype" height="400" width="230">
 </div>
 
 
-The actual modal where you can create a new job offer or a candidate profile is based on having to complete some mandatory fields, depending on the relevance for each category. Screenshots for these cases are shown below:
-<img src="/connect.github.io/images/Register.png" alt="register" >
-<img src="/connect.github.io/images/Register company.png" alt="registercompany" >
-
-As a recruiter you can also add different job offers and the modal that will be shown to you when doing this action is the one below:
+As an employee, the way you can create your account is shown below. Basically, you only need to complete your personal information and upload your CV or link your Linkedin account.
 <div id="soloImg">
-  <img src="/connect.github.io/images/Create job type.png" alt="createjobtype" >
+  <img src="/connect.github.io/images/MVP/create-employee-account.png" alt="chooseusertype" height="400" width="230">
 </div>
+
+
+As a recruiter, you can also create your account and link to it multiple job offers.
+<div id="soloImg">
+  <img src="/connect.github.io/images/MVP/create-company-account.png" alt="chooseusertype" height="400" width="230">
+</div>
+
 
 
 <div style="display:inline; float:left">
