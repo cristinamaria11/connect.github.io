@@ -29,6 +29,12 @@ As a recruiter, you can also create your account and link to it multiple job off
 </div>
 
 
+# Candidate profile
+All the information an employee completes in his/her page is shown below:
+<div id="soloImg">
+  <img src="/connect.github.io/images/MVP/candidate-profile.png" alt="chooseusertype" height="400" width="230">
+</div>
+
 
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 6" onclick="window.location.href='milestone6.html'" />
