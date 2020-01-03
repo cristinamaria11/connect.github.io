@@ -1,4 +1,4 @@
-We decided to implement some basic features of the application such as the login/signup and the pages of the users. If a profile is created at the moment, the algorithm that is supposed to recommend the profiles is not in place yet, but a possible buyer can see how the app is supposed to be working.
+We decided to implement some basic features of the application such as the login/signup and the pages of the users, the main functionalities that add the initial value to the project. If a profile is created at the moment, the algorithm that is supposed to recommend the profiles is not in place yet, but a possible buyer can see how the app is supposed to be working.
 
 # Login
 
