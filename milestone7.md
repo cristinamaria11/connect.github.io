@@ -3,7 +3,7 @@ We decided to implement some basic features of the application such as the login
 
 # Login
 The login page is basic, it requires you to complete the username and passwords, just like any other similar page. It also displays some error messages, depending on the case. The motivation behind implementing this functionality is obvious, you can't say an app is any good without having any kind of security, no matter how basic this is at first.
-<img src="/connect.github.io/images/MVP/login.png" alt="login" height="400" width="500" align="center">
+<img src="/connect.github.io/images/MVP/login-process.png" alt="login" height="400" width="500">
 
 # Creating a profile
 After logging in to the application, a user has to choose whether he/she is looking for a job or for a possible employee. This is shown in the following screenshot. The app being meant for 2 different types of users, without this implementation, the app wouldn't make too much sense.
