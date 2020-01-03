@@ -3,8 +3,6 @@ We decided to implement some basic features of the application such as the login
 
 # Login
 The login page is basic, it requires you to complete the username and passwords, just like any other similar page. It also displays some error messages, depending on the case. The motivation behind implementing this functionality is obvious, you can't say an app is any good without having any kind of security, no matter how basic this is at first.
-<div id='soloImg'>
-<div>
 
 
 # Creating a profile
