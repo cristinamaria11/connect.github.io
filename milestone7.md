@@ -9,21 +9,25 @@ The login page is basic, it requires you to complete the username and passwords,
 
 # Creating a profile
 After logging in to the application, a user has to choose whether he/she is looking for a job or for a possible employee. This is shown in the following screenshot. The app being meant for 2 different types of users, without this implementation, the app wouldn't make too much sense.
-<img src="/connect.github.io/images/MVP/choose-profile-type.png" alt="chooseusertype" height="400" width="230">
-
+<p style="text-align:center;">
+    <img src="/connect.github.io/images/MVP/choose-profile-type.png" alt="chooseusertype" height="400" width="230">
+</p>
 
 As an employee, the way you can create your account is shown below. Basically, you only need to complete your personal information and upload your CV or link your Linkedin account.
-<img src="/connect.github.io/images/MVP/create-employee-account.png" alt="employee-account" height="400" width="500">
-
+<p style="text-align:center;">
+    <img src="/connect.github.io/images/MVP/create-employee-account.png" alt="employee-account" height="400" width="500">
+</p>
 
 As a recruiter, you can also create your account and link to it multiple job offers.
-<img src="/connect.github.io/images/MVP/create-company-account.png" alt="company-account" height="400" width="500">
-
+<p style="text-align:center;">
+    <img src="/connect.github.io/images/MVP/create-company-account.png" alt="company-account" height="400" width="500">
+</p>
 
 # Candidate profile
 All the information an employee completes in his/her page is shown below:
-<img src="/connect.github.io/images/MVP/candidate-profile.png" alt="chooseusertype" height="400" width="500">
-
+<p style="text-align:center;">
+    <img src="/connect.github.io/images/MVP/candidate-profile.png" alt="chooseusertype" height="400" width="500">
+</p>
 
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 6" onclick="window.location.href='milestone6.html'" />
