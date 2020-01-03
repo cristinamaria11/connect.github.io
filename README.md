@@ -12,3 +12,5 @@
 [Milestone 5](milestone5.md)
 
 [Milestone 6](milestone6.md)
+
+[Milestone 7](milestone7.md)
