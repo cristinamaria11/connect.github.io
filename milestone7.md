@@ -39,3 +39,6 @@ All the information an employee completes in his/her page is shown below:
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 6" onclick="window.location.href='milestone6.html'" />
 </div>
+<div style="display:inline; float:right">
+<input type="button" class="button" value="Milestone 8 >>" onclick="window.location.href='milestone8.html'" />
+</div>
