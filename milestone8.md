@@ -27,7 +27,7 @@ It is great to see such an easy to use application for a process that usually ta
 Yes, I am definitely willing to pay for this application as long as it keeps the price I was informed about. My opinion is that it really takes into consideration the fact that most probably the people that will use it, the people that are searching now for jobs are, most of them, fresh graduates that don't have a lot of money.   
 Another aspect that I really appreciate about this product is the fact that you can use the regular version and, only when you're happy with the results of the application, you can pay for the premium version that offers you some more features.
 
-## Andrada Cordescu, 23, Computer science student
+## Computer science graduate
 I really like this app. As i understand, some of both the basic and the premium features are available now for the first couple of users. The best things about this product are that i can go back to the jobs i swiped left and that i can see who liked my profile.   
 At this point you got me, if I didn’t had the 
 
