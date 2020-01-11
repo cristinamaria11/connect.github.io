@@ -26,7 +26,7 @@ Another aspect that I really appreciate about this product is the fact that you 
 
 ## Andrada Cordescu, 23, Computer science student
 I really like this app. As i understand, some of both the basic and the premium features are available now for the first couple of users. The best things about this product are that i can go back to the jobs i swiped left and that i can see who liked my profile.   
-At this point you got me, if I didn’t had the chance to be in the first clients to use the app to get the premium features for free, I would totally had paid for the subscription. Another thing that I liked about the product is the interface, because it is very user friendly and it is much easier to complete your profile than on other platforms. I like that the companies that want your skills will appear first in your match. One suggestion, for the so much wanted release of the app, is to add a save button in order to go back to the ad if you do not want to apply directly.
+At this point you got me, if I didn’t had the 
 
 ## Recruiter
 As a HR recruiter in a big corporation, it is important to find the perfect candidate for the open positions. I often find myself searching for a long period on LinkedIn for an exact match of the other person’s abilities and interests with the ones I am interested in.   
