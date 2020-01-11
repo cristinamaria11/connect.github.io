@@ -1,6 +1,7 @@
 # First Sale
 
 The first step into figuring out if Connect is valuable to out clients and what features are most appreciated, is to gather usage data from users after they gave their consent. From the following graph it is clear what the intentions of the user are and what features they were most interested in.   
+
 By collecting data from 20 users that tested our MVP for three days in a row, we confirmed out first assumption, the one that states that "See who liked my profile/job", "Swipe back" and "Upload multiple CVs" features should be included in the premium version of the application. The number of clicks suggests the user's desire to have these features in his day to day search on the app. Therefore, we decided to monetise the mentioned features into the Premium subscription because the needs of the clients will be mostly constant and the price for meeting their needs will always be fair.  
 
 <p style="text-align:center;">
