@@ -1,7 +1,7 @@
 # First Sale
 
 <p style="text-align:center;">
-    <img src="/connect.github.io/images/analytics/chart-number-of-clicks.png" alt="chooseusertype" height="400" width="500">
+    <img src="/connect.github.io/images/analytics/number-of-clicks.png" alt="chooseusertype" height="400" width="700">
 </p>
 
 # Alpha testing
