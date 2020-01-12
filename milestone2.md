@@ -36,7 +36,7 @@ In order to get in touch with people from human resources department, we chose t
 
 **Evaluate customer feedback:**
 
-<img src="/connect.github.io/images/angajat-q1.png" alt="angajat-q1" width="600" height="300">
+<img src="/connect.github.io/images/q1-angajat.png" alt="q1-angajat" width="600" height="300">
 <img src="/connect.github.io/images/angajat-q2.png" alt="angajat-q2" width="600" height="300">
 <img src="/connect.github.io/images/angajat-q3.png" alt="angajat-q3" width="600" height="300">
 <img src="/connect.github.io/images/angajat-q4.png" alt="angajat-q4" width="600" height="300">
