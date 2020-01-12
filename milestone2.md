@@ -10,17 +10,20 @@ In a few words, the problem is that there is no proper **match** between employe
 
 Our project, Connect, wants to come as a solution for the problem mentioned above.
 
-Connect is a web application which is based on the match system between employers and employees. Both of them can see the other’s profile/announcement and swipe right if they are interested in the candidate/position, or swipe left if not. Employees can see job announcements along with a description of the position for which they apply, the necessary skills and other useful information, and employers can see the profile of potential candidates along with their skills, their projects and other useful information. Only if there is a **match**, the employment process can continue and if not, contact can not be made. 
+Connect is a web application which is based on the match system between employers and employees. Both of them can see the other’s profile/announcement and swipe right if they are interested in the candidate/position, or swipe left if not. Employees can see job announcements along with a description of the position for which they apply, the necessary skills and other useful information, and employers can see the profile of potential candidates along with their skills, their projects and other useful information. Only if there is a **match**, the employment process can continue and if not, contact can not be made.
 
 Following these rules, the amount of candidates is smaller and, in the same time, the candidates are not approached by so many recruiters.
 
-# Customer discovery
+# The General Plan
 
-**Hypotheses:**
-Our idea solves the complexity and large time of hiring process by creating an app which is based on the match between employers and employees.
+Our idea solves the complexity and large time of hiring process by creating an application which is based on the match between employers and employees.
+
 We encountered this problem and noticed that many colleagues have gone through this. So the main audience is represented by students who are quickly looking for a job to gain experience. They want it to be a quick process and to find what fits them in the job listings. To apply for a job requires minimal effort that is also fun and attractive.
 
-**Test hypotheses:**
+Also we want to interview people from human resources department to make sure we test all aspects of our market and get a better understanding of our potential clients.
+
+# Customer Validation
+
 In order to test our hypotheses, we start asking people who we believe could be potential customers. For Connect, this means reaching out to students from university and people from human resources department to make sure we test all aspects of our market and get a better understanding of our potential clients.
 
 **Evaluate customer feedback:**
