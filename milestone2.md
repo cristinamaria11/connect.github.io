@@ -60,9 +60,9 @@ From the following chart we show that other people have had the same problem as 
 
 <img src="/connect.github.io/images/q8-angajat-bun.png" alt="q8-angajat-bun" width="600" height="371">
 
-The following chart shows us that our solution should be a web platform
+The following chart shows us that our solution should be a web platform:
 
-<img src="/connect.github.io/images/q9-angajat.png" alt="q9-angajat-bun" width="600" height="371">
+<img src="/connect.github.io/images/q9-angajat-bun.png" alt="q9-angajat-bun" width="600" height="371">
 
 
 # Conclusion
