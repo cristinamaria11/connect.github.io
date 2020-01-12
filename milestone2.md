@@ -24,7 +24,15 @@ Also we want to interview people from human resources department to make sure we
 
 # Customer Validation
 
-In order to test our hypotheses, we start asking people who we believe could be potential customers. For Connect, this means reaching out to students from university and people from human resources department to make sure we test all aspects of our market and get a better understanding of our potential clients.
+Reaching out to potential customers of Connect, means reaching out to students from university and people from human resources department, which handle the recruitment.
+
+In order to get in touch with the students, we chose to create a form which is focused on finding out if the problems we encountered in the hiring process are general problems among the students, but also on finding out if there are several issues we did not think about. We added some open questions to take in consideration other people problems in the hiring process.
+
+The form can be found at <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8rFm3xZOasuB1Vak-DdwrxVZMFPSlmrUg5fRlAoUn6pjJJg/viewform?usp=sf_link">this</a> link.
+
+We managed to gather 31 answers to our form by sharing it to our friends and Facebook groups.
+
+In order to get in touch with people from human resources department, we chose to interview them face-to-face to find out what are the difficulties they encountered during the hiring process. We managed to do 2 interviews of this type.
 
 **Evaluate customer feedback:**
 
