@@ -37,14 +37,14 @@ In order to get in touch with people from human resources department, we chose t
 **Evaluate customer feedback:**
 
 <img src="/connect.github.io/images/q1-angajat.png" alt="q1-angajat" width="600" height="371">
-<img src="/connect.github.io/images/angajat-q2.png" alt="angajat-q2" width="600" height="300">
-<img src="/connect.github.io/images/angajat-q3.png" alt="angajat-q3" width="600" height="300">
-<img src="/connect.github.io/images/angajat-q4.png" alt="angajat-q4" width="600" height="300">
-<img src="/connect.github.io/images/angajat-q5.png" alt="angajat-q5" width="600" height="300">
-<img src="/connect.github.io/images/angajat-q6.png" alt="angajat-q6" width="600" height="300">
-<img src="/connect.github.io/images/angajat-q7.png" alt="angajat-q7" width="600" height="300">
-<img src="/connect.github.io/images/angajat-q8.png" alt="angajat-q8" width="600" height="300">
-<img src="/connect.github.io/images/angajat-q9.png" alt="angajat-q9" width="600" height="300">
+<img src="/connect.github.io/images/angajat-q2.png" alt="q2-angajat" width="600" height="371">
+<img src="/connect.github.io/images/angajat-q3.png" alt="q3-angajat" width="600" height="371">
+<img src="/connect.github.io/images/angajat-q4.png" alt="q4-angajat" width="600" height="371">
+<img src="/connect.github.io/images/angajat-q5.png" alt="q5-angajat" width="600" height="371">
+<img src="/connect.github.io/images/angajat-q6.png" alt="q6-angajat" width="600" height="371">
+<img src="/connect.github.io/images/angajat-q7.png" alt="q7-angajat" width="600" height="371">
+<img src="/connect.github.io/images/angajat-q8.png" alt="q8-angajat" width="600" height="371">
+<img src="/connect.github.io/images/angajat-q9.png" alt="q9-angajat" width="600" height="371">
 
 
 # Conclusion
