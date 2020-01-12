@@ -16,7 +16,7 @@ Following these rules, the amount of candidates is smaller and, in the same time
 
 # The General Plan
 
-Our idea solves the complexity and large time of hiring process by creating an application which is based on the match between employers and employees.
+Our idea solves the complexity and large time of hiring process by creating an application which is based on the **match** between employers and employees.
 
 We encountered this problem and noticed that many colleagues have gone through this. So the main audience is represented by students who are quickly looking for a job to gain experience. They want it to be a quick process and to find what fits them in the job listings. To apply for a job requires minimal effort that is also fun and attractive.
 
@@ -30,9 +30,9 @@ In order to get in touch with the students, we chose to create a form which is f
 
 The form can be found at <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8rFm3xZOasuB1Vak-DdwrxVZMFPSlmrUg5fRlAoUn6pjJJg/viewform?usp=sf_link">this</a> link. The answers can be found <a href="https://docs.google.com/spreadsheets/d/1LjbreOqTq6l3FobnvTwtuMerzaVeQQkVSpk6Q9I2rZ0/edit?usp=sharing">here</a>.
 
-We managed to gather 31 answers to our form by sharing it to our friends and Facebook groups.
+We managed to gather **31** answers to our form by sharing it to our friends and Facebook groups.
 
-In order to get in touch with people from human resources department, we chose to interview them face-to-face to find out what are the difficulties they encountered during the hiring process. We managed to do 2 interviews of this type.
+In order to get in touch with people from human resources department, we chose to interview them face-to-face to find out what are the difficulties they encountered during the hiring process. We managed to do **2** interviews of this type.
 
 **Evaluate customer feedback:**
 
@@ -64,9 +64,12 @@ The following chart shows us that our solution should be a web platform:
 
 <img src="/connect.github.io/images/q9-angajat-bun.png" alt="q9-angajat-bun" width="600" height="371">
 
+After the **2** face-to-face interviews with the people in the human resources department, who are dealing with the recruitment process, we have been confirmed that many persons who get to give an interview are not suitable for the proposed job.
 
 # Conclusion
-Considering the results of the questionnaire, the most common problem among candidates is the duration until they receive a response from the employer. Also, another problem that arises is finding the right job ad so that it is fast and easy. We noticed that many prefer to use the official website of the company when they want to apply what is delaying the process, given that they have observed the announcement on another platform. Because of this, we are thinking of giving users the confidence to use a single platform, because the employer also uses the application for the selection of candidates with whom he matches. Connect will be easy to use and will attract the user to spend as much time as possible through the swipe method so he just simply choose what he likes. We believe that once the customers’ responses match your hypothesis, we can go further and come up with a solution for this.
+Considering the results of the questionnaire, the most common problem among candidates is the duration until they receive a response from the employer. Also, another problem that arises is finding the right job ad so that it is fast and easy. We noticed that many prefer to use the official website of the company when they want to apply what is delaying the process, given that they have observed the announcement on another platform. Because of this, we are thinking of giving users the confidence to use a single platform, because the employer also uses the application for the selection of candidates with whom he matches.
+
+Connect will be easy to use and will attract the user to spend as much time as possible through the swipe method so he just simply choose what he likes. We believe that once the customers’ responses match your hypothesis, we can go further and come up with a solution for this.
 
 
 <div style="display:inline; float:left">
