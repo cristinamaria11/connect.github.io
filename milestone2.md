@@ -28,7 +28,7 @@ Reaching out to potential customers of Connect, means reaching out to students f
 
 In order to get in touch with the students, we chose to create a form which is focused on finding out if the problems we encountered in the hiring process are general problems among the students, but also on finding out if there are several issues we did not think about. We added some open questions to take in consideration other people problems in the hiring process.
 
-The form can be found at <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8rFm3xZOasuB1Vak-DdwrxVZMFPSlmrUg5fRlAoUn6pjJJg/viewform?usp=sf_link">this</a> link.
+The form can be found at <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8rFm3xZOasuB1Vak-DdwrxVZMFPSlmrUg5fRlAoUn6pjJJg/viewform?usp=sf_link">this</a> link. The answers can be found <a href="https://docs.google.com/spreadsheets/d/1LjbreOqTq6l3FobnvTwtuMerzaVeQQkVSpk6Q9I2rZ0/edit?usp=sharing">here</a>.
 
 We managed to gather 31 answers to our form by sharing it to our friends and Facebook groups.
 
