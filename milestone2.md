@@ -1,13 +1,17 @@
-# The problem
+# Identifying the problem
 
-The problem nowadays with jobs is coming both from the employer and the employees. The employers have way too much candidates to choose from and the possible employees are contacted from a lot of companies which are often not suitable for them and get tired of all this process. In a few words, the problem with the hiring process consists of the complexity of it.
+Discussing between us about the hiring process within a company, we have come to the conclusion that everyone has encountered some difficulties throughout this process. One of the problems we identified was that the potential employees are contacted by a lot of companies that are often unsuitable for them and get tired throughout the recruitment process.
+
+On the other hand, after a discussion with a person in the field of human resources within a company, dealing with recruitment, we found out that there is a problem for them as well. There are too many unfit people for a certain position, who get to participate in an interview.
+
+In a few words, the problem is that there is no proper **match** between employers and employees.
 
 # The solution
 
 Our project comes with a solution for the problem mentioned above.
 Connect is a web application which is based on the match between employers and employees. Both of them can see the other's profile and swipe right if they like what they see. Only if there is a match, the employment process can continue and if not, contact can not be made. Following these rules, the amount of candidates is smaller and, in the same time, the candidates are not approached by so many recruiters.
 
-# Customer discovery 
+# Customer discovery
 
 **Hypotheses:**
 Our idea solves the complexity and large time of hiring process by creating an app which is based on the match between employers and employees.
@@ -28,11 +32,11 @@ In order to test our hypotheses, we start asking people who we believe could be 
 <img src="/connect.github.io/images/angajat-q8.png" alt="angajat-q8" width="600" height="300">
 <img src="/connect.github.io/images/angajat-q9.png" alt="angajat-q9" width="600" height="300">
 
- 
+
 # Conclusion
 Considering the results of the questionnaire, the most common problem among candidates is the duration until they receive a response from the employer. Also, another problem that arises is finding the right job ad so that it is fast and easy. We noticed that many prefer to use the official website of the company when they want to apply what is delaying the process, given that they have observed the announcement on another platform. Because of this, we are thinking of giving users the confidence to use a single platform, because the employer also uses the application for the selection of candidates with whom he matches. Connect will be easy to use and will attract the user to spend as much time as possible through the swipe method so he just simply choose what he likes. We believe that once the customers’ responses match your hypothesis, we can go further and come up with a solution for this.
 
- 
+
 <div style="display:inline; float:left">
 <input type="button" class="button" value="<< Milestone 1" onclick="window.location.href='milestone1.html'" />
 </div>
