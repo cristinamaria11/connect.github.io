@@ -6,10 +6,13 @@ On the other hand, after a discussion with a person in the field of human resour
 
 In a few words, the problem is that there is no proper **match** between employers and employees.
 
-# The solution
+# Initial solution
 
-Our project comes with a solution for the problem mentioned above.
-Connect is a web application which is based on the match between employers and employees. Both of them can see the other's profile and swipe right if they like what they see. Only if there is a match, the employment process can continue and if not, contact can not be made. Following these rules, the amount of candidates is smaller and, in the same time, the candidates are not approached by so many recruiters.
+Our project, Connect, wants to come as a solution for the problem mentioned above.
+
+Connect is a web application which is based on the match system between employers and employees. Both of them can see the other’s profile/announcement and swipe right if they are interested in the candidate/position, or swipe left if not. Employees can see job announcements along with a description of the position for which they apply, the necessary skills and other useful information, and employers can see the profile of potential candidates along with their skills, their projects and other useful information. Only if there is a **match**, the employment process can continue and if not, contact can not be made. 
+
+Following these rules, the amount of candidates is smaller and, in the same time, the candidates are not approached by so many recruiters.
 
 # Customer discovery
 
