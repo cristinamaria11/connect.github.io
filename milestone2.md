@@ -39,12 +39,30 @@ In order to get in touch with people from human resources department, we chose t
 <img src="/connect.github.io/images/q1-angajat.png" alt="q1-angajat" width="600" height="371">
 <img src="/connect.github.io/images/q2-angajat.png" alt="q2-angajat" width="600" height="371">
 <img src="/connect.github.io/images/q3-angajat.png" alt="q3-angajat" width="600" height="371">
+
+The following chart shows us if the people who responded to this form are in the target audience, which means if they participated in recruitment processes. Based on this chart they are in the target audience.
+
 <img src="/connect.github.io/images/q4-angajat.png" alt="q4-angajat" width="600" height="371">
+
+The following chart shows us who is our biggest competitor:
+
 <img src="/connect.github.io/images/q5-angajat.png" alt="q5-angajat" width="600" height="371">
+
+The following chart shows us what are the biggest problems encountered during a recruitment process. Also, this question had beside multiple answer choices, open answer, and someone identified a problem that we did not take into account, namely that you do not know the status of the application during the interviews. Considering this answer we can add a feature in this regard.
+
 <img src="/connect.github.io/images/q6-angajat.png" alt="q6-angajat" width="600" height="371">
+
+From the following chart we can see that a recruitment process takes quite a long time, an average of almost 3 months.
+
 <img src="/connect.github.io/images/q7-angajat-bun.png" alt="q7-angajat-bun" width="600" height="371">
+
+From the following chart we show that other people have had the same problem as us, namely that it happens many times to be contacted by companies that do not fit your profile.
+
 <img src="/connect.github.io/images/q8-angajat-bun.png" alt="q8-angajat-bun" width="600" height="371">
-<img src="/connect.github.io/images/q9-angajat.png" alt="q9-angajat" width="600" height="371">
+
+The following chart shows us that our solution should be a web platform
+
+<img src="/connect.github.io/images/q9-angajat.png" alt="q9-angajat-bun" width="600" height="371">
 
 
 # Conclusion
